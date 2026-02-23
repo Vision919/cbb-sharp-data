@@ -26,7 +26,7 @@ echo [0] Today
 echo [1] Tomorrow
 echo [2] Day After
 set /p days="Choose day (0-2): "
-python get_any_slate.py %days%
+python get_slate.py %days%
 
 :: 4. Build the JSON Master Payload
 echo.
