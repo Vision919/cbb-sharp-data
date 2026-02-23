@@ -1,0 +1,6660 @@
+{
+    "players": [
+        {
+            "Team": "Boston College",
+            "Player": "Fred Payne",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Boston College",
+            "Player": "Donald Hand Jr.",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Boston College",
+            "Player": "Chase Forte",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "California",
+            "Player": "Dai Dai Ames",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "California",
+            "Player": "Justin Pippen",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "California",
+            "Player": "Justin Pippen",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Clemson",
+            "Player": "RJ Godfrey",
+            "Value": 11.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Clemson",
+            "Player": "Carter Welling",
+            "Value": 10.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Clemson",
+            "Player": "Dillon Hunter",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Duke",
+            "Player": "Cameron Boozer",
+            "Value": 22.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Duke",
+            "Player": "Isaiah Evans",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Duke",
+            "Player": "Cameron Boozer",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Florida State",
+            "Player": "Robert McCray V",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida State",
+            "Player": "Chauncey Wiggins",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida State",
+            "Player": "Robert McCray V",
+            "Value": 5.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Georgia Tech",
+            "Player": "Kowacie Reeves Jr.",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia Tech",
+            "Player": "Baye Ndongo",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia Tech",
+            "Player": "Lamar Washington",
+            "Value": 5.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Louisville",
+            "Player": "Mikel Brown Jr.",
+            "Value": 18.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisville",
+            "Player": "Ryan Conwell",
+            "Value": 18.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisville",
+            "Player": "Mikel Brown Jr.",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Miami (FL)",
+            "Player": "Malik Reneau",
+            "Value": 19.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Miami (FL)",
+            "Player": "Tre Donaldson",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Miami (FL)",
+            "Player": "Tre Donaldson",
+            "Value": 5.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "NC State",
+            "Player": "Darrion Williams",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "NC State",
+            "Player": "Quadir Copeland",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "NC State",
+            "Player": "Quadir Copeland",
+            "Value": 6.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "North Carolina",
+            "Player": "Caleb Wilson",
+            "Value": 19.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Carolina",
+            "Player": "Henri Veesaar",
+            "Value": 16.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Carolina",
+            "Player": "Kyan Evans",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Notre Dame",
+            "Player": "Markus Burton",
+            "Value": 18.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Notre Dame",
+            "Player": "Jalen Haralson",
+            "Value": 15.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Notre Dame",
+            "Player": "Markus Burton",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Pittsburgh",
+            "Player": "Brandin Cummings",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pittsburgh",
+            "Player": "Cameron Corhen",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pittsburgh",
+            "Player": "Damarco Minor",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "SMU",
+            "Player": "Kevin Miller",
+            "Value": 18.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "SMU",
+            "Player": "Jaron Pierre Jr.",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "SMU",
+            "Player": "Kevin Miller",
+            "Value": 6.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Stanford",
+            "Player": "Ebuka Okorie",
+            "Value": 22.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Stanford",
+            "Player": "Chisom Okpara",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Stanford",
+            "Player": "Ebuka Okorie",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Syracuse",
+            "Player": "Donnie Freeman",
+            "Value": 16.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Syracuse",
+            "Player": "JJ Starling",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Syracuse",
+            "Player": "Naithan George",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Virginia",
+            "Player": "Thijs De Ridder",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Virginia",
+            "Player": "Malik Thomas",
+            "Value": 12.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Virginia",
+            "Player": "Dallin Hall",
+            "Value": 4.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Virginia Tech",
+            "Player": "Amani Hansberry",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Virginia Tech",
+            "Player": "Ben Hammond",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Virginia Tech",
+            "Player": "Neoklis Avdalas",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Wake Forest",
+            "Player": "Juke Harris",
+            "Value": 21.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wake Forest",
+            "Player": "Myles Colvin",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wake Forest",
+            "Player": "Nate Calmese",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Alabama",
+            "Player": "Labaron Philon",
+            "Value": 21.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alabama",
+            "Player": "Aden Holloway",
+            "Value": 16.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alabama",
+            "Player": "Labaron Philon",
+            "Value": 5.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Arkansas",
+            "Player": "Darius Acuff Jr.",
+            "Value": 22.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arkansas",
+            "Player": "Meleek Thomas",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arkansas",
+            "Player": "Darius Acuff Jr.",
+            "Value": 6.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Auburn",
+            "Player": "Keyshawn Hall",
+            "Value": 20.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Auburn",
+            "Player": "Tahaad Pettiford",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Auburn",
+            "Player": "Tahaad Pettiford",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Florida",
+            "Player": "Thomas Haugh",
+            "Value": 17.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida",
+            "Player": "Alex Condon",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida",
+            "Player": "Xaivian Lee",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Georgia",
+            "Player": "Jeremiah Wilkinson",
+            "Value": 17.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia",
+            "Player": "Blue Cain",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia",
+            "Player": "Marcus Millender",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Kentucky",
+            "Player": "Otega Oweh",
+            "Value": 17.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kentucky",
+            "Player": "Denzel Aberdeen",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kentucky",
+            "Player": "Denzel Aberdeen",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Louisiana State",
+            "Player": "Dedan Thomas Jr.",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana State",
+            "Player": "Max Mackinnon",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana State",
+            "Player": "Dedan Thomas Jr.",
+            "Value": 6.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Mississippi State",
+            "Player": "Josh Hubbard",
+            "Value": 22.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mississippi State",
+            "Player": "Jayden Epps",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mississippi State",
+            "Player": "Josh Hubbard",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Missouri",
+            "Player": "Mark Mitchell",
+            "Value": 17.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Missouri",
+            "Player": "Jayden Stone",
+            "Value": 14.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Missouri",
+            "Player": "Mark Mitchell",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Oklahoma",
+            "Player": "Nijel Pack",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oklahoma",
+            "Player": "Xzayvier Brown",
+            "Value": 15.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oklahoma",
+            "Player": "Nijel Pack",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Ole Miss",
+            "Player": "AJ Storr",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ole Miss",
+            "Player": "Malik Dia",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ole Miss",
+            "Player": "Ilias Kamardine",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "South Carolina",
+            "Player": "Meechie Johnson Jr.",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Carolina",
+            "Player": "Mike Sharavjamts",
+            "Value": 11.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Carolina",
+            "Player": "Meechie Johnson Jr.",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Tennessee",
+            "Player": "Ja'Kobi Gillespie",
+            "Value": 18.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tennessee",
+            "Player": "Nate Ament",
+            "Value": 18.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tennessee",
+            "Player": "Ja'Kobi Gillespie",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Texas",
+            "Player": "Dailyn Swain",
+            "Value": 17.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas",
+            "Player": "Matas Vokietaitis",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas",
+            "Player": "Dailyn Swain",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Texas A&M",
+            "Player": "Rashaun Agee",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas A&M",
+            "Player": "Marcus Hill",
+            "Value": 11.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas A&M",
+            "Player": "Jacari Lane",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Vanderbilt",
+            "Player": "Tyler Tanner",
+            "Value": 18.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Vanderbilt",
+            "Player": "Duke Miles",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Vanderbilt",
+            "Player": "Tyler Tanner",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Arizona",
+            "Player": "Brayden Burries",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arizona",
+            "Player": "Koa Peat",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arizona",
+            "Player": "Jaden Bradley",
+            "Value": 4.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Arizona State",
+            "Player": "Moe Odum",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arizona State",
+            "Player": "Massamba Diop",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arizona State",
+            "Player": "Moe Odum",
+            "Value": 5.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Baylor",
+            "Player": "Cameron Carr",
+            "Value": 18.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Baylor",
+            "Player": "Tounde Yessoufou",
+            "Value": 18.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Baylor",
+            "Player": "Obi Agbim",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Brigham Young",
+            "Player": "AJ Dybantsa",
+            "Value": 24.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Brigham Young",
+            "Player": "Richie Saunders",
+            "Value": 18.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Brigham Young",
+            "Player": "Robert Wright III",
+            "Value": 4.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Cincinnati",
+            "Player": "Baba Miller",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cincinnati",
+            "Player": "Moustapha Thiam",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cincinnati",
+            "Player": "Day Day Thomas",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Colorado",
+            "Player": "Isaiah Johnson",
+            "Value": 16.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Colorado",
+            "Player": "Barrington Hargress",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Colorado",
+            "Player": "Barrington Hargress",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Houston",
+            "Player": "Kingston Flemings",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Houston",
+            "Player": "Emanuel Sharp",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Houston",
+            "Player": "Kingston Flemings",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Iowa State",
+            "Player": "Milan Momcilovic",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Iowa State",
+            "Player": "Joshua Jefferson",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Iowa State",
+            "Player": "Joshua Jefferson",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Kansas",
+            "Player": "Darryn Peterson",
+            "Value": 19.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kansas",
+            "Player": "Flory Bidunga",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kansas",
+            "Player": "Melvin Council Jr.",
+            "Value": 5.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Kansas State",
+            "Player": "PJ Haggerty",
+            "Value": 23.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kansas State",
+            "Player": "Abdi Bashir Jr.",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kansas State",
+            "Player": "Nate Johnson",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Oklahoma State",
+            "Player": "Anthony Roy",
+            "Value": 17.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oklahoma State",
+            "Player": "Parsa Fallah",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oklahoma State",
+            "Player": "Kanye Clary",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "TCU",
+            "Player": "David Punch",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "TCU",
+            "Player": "Xavier Edmonds",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "TCU",
+            "Player": "Brock Harding",
+            "Value": 5.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Texas Tech",
+            "Player": "JT Toppin",
+            "Value": 21.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas Tech",
+            "Player": "Christian Anderson",
+            "Value": 19.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas Tech",
+            "Player": "Christian Anderson",
+            "Value": 7.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "UCF",
+            "Player": "Riley Kugel",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UCF",
+            "Player": "Themus Fulks",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UCF",
+            "Player": "Themus Fulks",
+            "Value": 6.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Utah",
+            "Player": "Terrence Brown",
+            "Value": 20.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah",
+            "Player": "Don McHenry",
+            "Value": 17.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah",
+            "Player": "Terrence Brown",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "West Virginia",
+            "Player": "Honor Huff",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "West Virginia",
+            "Player": "Brenen Lorient",
+            "Value": 11.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "West Virginia",
+            "Player": "Jasper Floyd",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Illinois",
+            "Player": "Keaton Wagler",
+            "Value": 18.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Illinois",
+            "Player": "Kylan Boswell",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Illinois",
+            "Player": "Keaton Wagler",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Indiana",
+            "Player": "Lamar Wilkerson",
+            "Value": 21.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Indiana",
+            "Player": "Tucker DeVries",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Indiana",
+            "Player": "Conor Enright",
+            "Value": 4.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Iowa",
+            "Player": "Bennett Stirtz",
+            "Value": 20.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Iowa",
+            "Player": "Tavion Banks",
+            "Value": 10.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Iowa",
+            "Player": "Bennett Stirtz",
+            "Value": 4.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Maryland",
+            "Player": "Pharrel Payne",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Maryland",
+            "Player": "David Coit",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Maryland",
+            "Player": "David Coit",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Michigan",
+            "Player": "Yaxel Lendeborg",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Michigan",
+            "Player": "Morez Johnson Jr.",
+            "Value": 13.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Michigan",
+            "Player": "Elliot Cadeau",
+            "Value": 5.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Michigan State",
+            "Player": "Jeremy Fears Jr.",
+            "Value": 15.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Michigan State",
+            "Player": "Jaxon Kohler",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Michigan State",
+            "Player": "Jeremy Fears Jr.",
+            "Value": 9.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Minnesota",
+            "Player": "Cade Tyson",
+            "Value": 19.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Minnesota",
+            "Player": "Jaylen Crocker-Johnson",
+            "Value": 13.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Minnesota",
+            "Player": "Langston Reynolds",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Nebraska",
+            "Player": "Pryce Sandfort",
+            "Value": 17.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Nebraska",
+            "Player": "Rienk Mast",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Nebraska",
+            "Player": "Sam Hoiberg",
+            "Value": 4.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Northwestern",
+            "Player": "Nick Martinelli",
+            "Value": 22.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northwestern",
+            "Player": "Arrinten Page",
+            "Value": 10.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northwestern",
+            "Player": "Jayden Reid",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Ohio State",
+            "Player": "Bruce Thornton",
+            "Value": 19.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ohio State",
+            "Player": "John Mobley Jr.",
+            "Value": 15.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ohio State",
+            "Player": "Bruce Thornton",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Oregon",
+            "Player": "Nathan Bittle",
+            "Value": 16.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oregon",
+            "Player": "Jackson Shelstad",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oregon",
+            "Player": "Jackson Shelstad",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Penn State",
+            "Player": "Freddie Dilione V",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Penn State",
+            "Player": "Kayden Mingo",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Penn State",
+            "Player": "Kayden Mingo",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Purdue",
+            "Player": "Braden Smith",
+            "Value": 14.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Purdue",
+            "Player": "Fletcher Loyer",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Purdue",
+            "Player": "Braden Smith",
+            "Value": 8.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Rutgers",
+            "Player": "Tariq Francis",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rutgers",
+            "Player": "Dylan Grant",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rutgers",
+            "Player": "Tariq Francis",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southern California",
+            "Player": "Rodney Rice",
+            "Value": 20.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern California",
+            "Player": "Chad Baker-Mazara",
+            "Value": 18.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern California",
+            "Player": "Rodney Rice",
+            "Value": 6.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "UCLA",
+            "Player": "Tyler Bilodeau",
+            "Value": 18.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UCLA",
+            "Player": "Donovan Dent",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UCLA",
+            "Player": "Donovan Dent",
+            "Value": 7.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Washington",
+            "Player": "Hannes Steinbach",
+            "Value": 17.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Washington",
+            "Player": "Zoom Diallo",
+            "Value": 14.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Washington",
+            "Player": "Zoom Diallo",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Wisconsin",
+            "Player": "Nick Boyd",
+            "Value": 20.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wisconsin",
+            "Player": "John Blackwell",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wisconsin",
+            "Player": "Nick Boyd",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Butler",
+            "Player": "Finley Bizjack",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Butler",
+            "Player": "Michael Ajayi",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Butler",
+            "Player": "Jalen Jackson",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Connecticut",
+            "Player": "Solomon Ball",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Connecticut",
+            "Player": "Tarris Reed Jr.",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Connecticut",
+            "Player": "Silas Demary Jr.",
+            "Value": 6.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Creighton",
+            "Player": "Josh Dix",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Creighton",
+            "Player": "Austin Swartz",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Creighton",
+            "Player": "Nik Graves",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "DePaul",
+            "Player": "CJ Gunn",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "DePaul",
+            "Player": "Layden Blocker",
+            "Value": 11.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "DePaul",
+            "Player": "Layden Blocker",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Georgetown",
+            "Player": "KJ Lewis",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgetown",
+            "Player": "Malik Mack",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgetown",
+            "Player": "Malik Mack",
+            "Value": 4.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Marquette",
+            "Player": "Nigel James Jr.",
+            "Value": 16.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Marquette",
+            "Player": "Chase Ross",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Marquette",
+            "Player": "Nigel James Jr.",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Providence",
+            "Player": "Jason Edwards",
+            "Value": 17.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Providence",
+            "Player": "Jaylin Sellers",
+            "Value": 17.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Providence",
+            "Player": "Jason Edwards",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Seton Hall",
+            "Player": "Adam Clark",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Seton Hall",
+            "Player": "A.J. Staton-McCray",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Seton Hall",
+            "Player": "Adam Clark",
+            "Value": 4.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "St. John's (NY)",
+            "Player": "Zuby Ejiofor",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. John's (NY)",
+            "Player": "Bryce Hopkins",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. John's (NY)",
+            "Player": "Zuby Ejiofor",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Villanova",
+            "Player": "Tyler Perkins",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Villanova",
+            "Player": "Acaden Lewis",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Villanova",
+            "Player": "Acaden Lewis",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Xavier",
+            "Player": "Tre Carroll",
+            "Value": 18.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Xavier",
+            "Player": "Jovan Milicevic",
+            "Value": 12.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Xavier",
+            "Player": "Filip Borovicanin",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Air Force",
+            "Player": "Lucas Hobin",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Air Force",
+            "Player": "Kam Sanders",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Air Force",
+            "Player": "Kam Sanders",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Boise State",
+            "Player": "Drew Fielder",
+            "Value": 14.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Boise State",
+            "Player": "Dylan Andrews",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Boise State",
+            "Player": "Dylan Andrews",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Colorado State",
+            "Player": "Kyle Jorgensen",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Colorado State",
+            "Player": "Brandon Rechsteiner",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Colorado State",
+            "Player": "Jevin Muniz",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Fresno State",
+            "Player": "Jake Heidbreder",
+            "Value": 17.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Fresno State",
+            "Player": "DeShawn Gory",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Fresno State",
+            "Player": "Zaon Collins",
+            "Value": 4.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Grand Canyon",
+            "Player": "Jaden Henley",
+            "Value": 17.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Grand Canyon",
+            "Player": "Makaih Williams",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Grand Canyon",
+            "Player": "Jaden Henley",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Nevada",
+            "Player": "Corey Camper Jr.",
+            "Value": 17.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Nevada",
+            "Player": "Elijah Price",
+            "Value": 12.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Nevada",
+            "Player": "Tayshawn Comer",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "New Mexico",
+            "Player": "Jake Hall",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Mexico",
+            "Player": "Tomislav Buljan",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Mexico",
+            "Player": "Chris Howell",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "San Diego State",
+            "Player": "Reese Dixon-Waters",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Diego State",
+            "Player": "Miles Byrd",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Diego State",
+            "Player": "Miles Byrd",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "San Jose State",
+            "Player": "Colby Garland",
+            "Value": 19.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Jose State",
+            "Player": "Yaphet Moundi",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Jose State",
+            "Player": "Colby Garland",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "UNLV",
+            "Player": "Dra Gibbs-Lawhorn",
+            "Value": 19.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UNLV",
+            "Player": "Kimani Hamilton",
+            "Value": 12.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UNLV",
+            "Player": "Howie Fleming Jr.",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Utah State",
+            "Player": "MJ Collins",
+            "Value": 17.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah State",
+            "Player": "Mason Falslev",
+            "Value": 16.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah State",
+            "Player": "Drake Allen",
+            "Value": 4.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Wyoming",
+            "Player": "Leland Walker",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wyoming",
+            "Player": "Nasir Meyer",
+            "Value": 13.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wyoming",
+            "Player": "Leland Walker",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Charlotte",
+            "Player": "Ben Bradford",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Charlotte",
+            "Player": "Dezayne Mingo",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Charlotte",
+            "Player": "Dezayne Mingo",
+            "Value": 4.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "East Carolina",
+            "Player": "Jordan Riley",
+            "Value": 23.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "East Carolina",
+            "Player": "Giovanni Emejuru",
+            "Value": 13.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "East Carolina",
+            "Player": "Corey Caulker",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Florida Atlantic",
+            "Player": "Devin Vanterpool",
+            "Value": 15.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida Atlantic",
+            "Player": "Kanaan Carlyle",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida Atlantic",
+            "Player": "Kanaan Carlyle",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Memphis",
+            "Player": "Dug McDaniel",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Memphis",
+            "Player": "Sincere Parker",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Memphis",
+            "Player": "Dug McDaniel",
+            "Value": 4.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "North Texas",
+            "Player": "Je'Shawn Stevenson",
+            "Value": 17.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Texas",
+            "Player": "David Terrell Jr.",
+            "Value": 13.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Texas",
+            "Player": "David Terrell Jr.",
+            "Value": 4.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Rice",
+            "Player": "Trae Broadnax",
+            "Value": 16.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rice",
+            "Player": "Nick Anderson",
+            "Value": 14.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rice",
+            "Player": "Trae Broadnax",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "South Florida",
+            "Player": "Izaiyah Nelson",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Florida",
+            "Player": "Wes Enis",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Florida",
+            "Player": "CJ Brown",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Temple",
+            "Player": "Derrian Ford",
+            "Value": 17.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Temple",
+            "Player": "Aiden Tobiason",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Temple",
+            "Player": "Jordan Mason",
+            "Value": 4.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Tulane",
+            "Player": "Rowan Brumbaugh",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tulane",
+            "Player": "Asher Woods",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tulane",
+            "Player": "Rowan Brumbaugh",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Tulsa",
+            "Player": "David Green",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tulsa",
+            "Player": "Miles Barnstable",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tulsa",
+            "Player": "Tylen Riley",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "UAB",
+            "Player": "Chance Westry",
+            "Value": 15.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UAB",
+            "Player": "Jacob Meyer",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UAB",
+            "Player": "Chance Westry",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "UTSA",
+            "Player": "Jamir Simpson",
+            "Value": 15.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UTSA",
+            "Player": "Austin Nunez",
+            "Value": 9.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UTSA",
+            "Player": "Austin Nunez",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Wichita State",
+            "Player": "Kenyon Giles",
+            "Value": 19.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wichita State",
+            "Player": "Karon Boyd",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wichita State",
+            "Player": "Dre Kindell",
+            "Value": 2.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Davidson",
+            "Player": "Roberts Blums",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Davidson",
+            "Player": "Josh Scovens",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Davidson",
+            "Player": "Sam Brown",
+            "Value": 2.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Dayton",
+            "Player": "Javon Bennett",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Dayton",
+            "Player": "De'Shayne Montgomery",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Dayton",
+            "Player": "Javon Bennett",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Duquesne",
+            "Player": "Tarence Guinyard",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Duquesne",
+            "Player": "Jimmie Williams",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Duquesne",
+            "Player": "Tarence Guinyard",
+            "Value": 5.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Fordham",
+            "Player": "Dejour Reaves",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Fordham",
+            "Player": "Zarique Nutter",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Fordham",
+            "Player": "Christian Henry",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "George Mason",
+            "Player": "Kory Mincy",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "George Mason",
+            "Player": "Riley Allenspach",
+            "Value": 13.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "George Mason",
+            "Player": "Jahari Long",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "George Washington",
+            "Player": "Rafael Castro",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "George Washington",
+            "Player": "Garrett Johnson",
+            "Value": 12.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "George Washington",
+            "Player": "Jean Aranguren",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "La Salle",
+            "Player": "Jaeden Marshall",
+            "Value": 12.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "La Salle",
+            "Player": "Jerome Brewer Jr.",
+            "Value": 11.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "La Salle",
+            "Player": "Jaden Johnson",
+            "Value": 4.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Loyola Chicago",
+            "Player": "Justin Moore",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Loyola Chicago",
+            "Player": "Miles Rubin",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Loyola Chicago",
+            "Player": "Justin Moore",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Rhode Island",
+            "Player": "Tyler Cochran",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rhode Island",
+            "Player": "Jonah Hinton",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rhode Island",
+            "Player": "R.J. Johnson",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Richmond",
+            "Player": "A.J. Lopez",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Richmond",
+            "Player": "Aiden Argabright",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Richmond",
+            "Player": "Will Johnston",
+            "Value": 2.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Saint Joseph's",
+            "Player": "Deuce Jones",
+            "Value": 15.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Joseph's",
+            "Player": "Jaiden Glover",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Joseph's",
+            "Player": "Derek Simpson",
+            "Value": 5.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Saint Louis",
+            "Player": "Robbie Avila",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Louis",
+            "Player": "Trey Green",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Louis",
+            "Player": "Robbie Avila",
+            "Value": 4.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "St. Bonaventure",
+            "Player": "Daryl Simmons II",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. Bonaventure",
+            "Player": "Frank Mitchell",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. Bonaventure",
+            "Player": "Dasonte Bowen",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "VCU",
+            "Player": "Terrence Hill Jr.",
+            "Value": 14.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "VCU",
+            "Player": "Lazar Djokovic",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "VCU",
+            "Player": "Terrence Hill Jr.",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Gonzaga",
+            "Player": "Graham Ike",
+            "Value": 19.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Gonzaga",
+            "Player": "Braden Huff",
+            "Value": 17.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Gonzaga",
+            "Player": "Braeden Smith",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Loyola Marymount",
+            "Player": "MJ Amey Jr.",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Loyola Marymount",
+            "Player": "Rodney Brown Jr.",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Loyola Marymount",
+            "Player": "Jan Vide",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Oregon State",
+            "Player": "Josiah Lake II",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oregon State",
+            "Player": "Isaiah Sy",
+            "Value": 9.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oregon State",
+            "Player": "Josiah Lake II",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Pacific",
+            "Player": "Elias Ralph",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pacific",
+            "Player": "TJ Wainwright",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pacific",
+            "Player": "Jaden Clayton",
+            "Value": 6.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Pepperdine",
+            "Player": "Aaron Clark",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pepperdine",
+            "Player": "Styles Phipps",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pepperdine",
+            "Player": "Styles Phipps",
+            "Value": 5.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Portland",
+            "Player": "Joel Foxwell",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Portland",
+            "Player": "Timo George",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Portland",
+            "Player": "Joel Foxwell",
+            "Value": 6.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "San Diego",
+            "Player": "Ty-Laur Johnson",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Diego",
+            "Player": "Toneari Lane",
+            "Value": 11.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Diego",
+            "Player": "Ty-Laur Johnson",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "San Francisco",
+            "Player": "Ryan Beasley",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Francisco",
+            "Player": "David Fuchs",
+            "Value": 11.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "San Francisco",
+            "Player": "Ryan Beasley",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Santa Clara",
+            "Player": "Christian Hammond",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Santa Clara",
+            "Player": "Elijah Mahi",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Santa Clara",
+            "Player": "Jake Ensminger",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Seattle",
+            "Player": "Brayden Maldonado",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Seattle",
+            "Player": "Jun Seok Yeo",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Seattle",
+            "Player": "Maleek Arington",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "St. Mary's (CA)",
+            "Player": "Paulius Murauskas",
+            "Value": 19.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. Mary's (CA)",
+            "Player": "Joshua Dent",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. Mary's (CA)",
+            "Player": "Joshua Dent",
+            "Value": 5.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Washington State",
+            "Player": "Ace Glass lll",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Washington State",
+            "Player": "Rihards Vavers",
+            "Value": 11.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Washington State",
+            "Player": "Adri\u00c3 Rodriguez",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Appalachian State",
+            "Player": "Kasen Jennings",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Appalachian State",
+            "Player": "Alonzo Dodd",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Appalachian State",
+            "Player": "Alonzo Dodd",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Arkansas State",
+            "Player": "Christian Harmon",
+            "Value": 13.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arkansas State",
+            "Player": "Kyle Hayman",
+            "Value": 11.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arkansas State",
+            "Player": "Chandler Jackson",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Coastal Carolina",
+            "Player": "Joshua Beadle",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Coastal Carolina",
+            "Player": "RaSheed Jones",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Coastal Carolina",
+            "Player": "RaSheed Jones",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Georgia Southern",
+            "Player": "Tavarus Webb",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia Southern",
+            "Player": "Tyren Moore",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia Southern",
+            "Player": "Tavarus Webb",
+            "Value": 2.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Georgia State",
+            "Player": "Jelani Hamilton",
+            "Value": 17.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia State",
+            "Player": "Micah Tucker",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Georgia State",
+            "Player": "Micah Tucker",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "James Madison",
+            "Player": "Justin McBride",
+            "Value": 16.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "James Madison",
+            "Player": "Cliff Davis",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "James Madison",
+            "Player": "Bradley Douglas",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Louisiana",
+            "Player": "Jamyron Keller",
+            "Value": 17.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana",
+            "Player": "Dorian Finister",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana",
+            "Player": "Jamyron Keller",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Louisiana\u00e2\u0080\u0093Monroe",
+            "Player": "Krystian Lewis",
+            "Value": 18.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana\u00e2\u0080\u0093Monroe",
+            "Player": "Martavious Russell",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana\u00e2\u0080\u0093Monroe",
+            "Player": "Krystian Lewis",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Marshall",
+            "Player": "Jalen Speer",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Marshall",
+            "Player": "Wyatt Fricks",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Marshall",
+            "Player": "Jalen Speer",
+            "Value": 5.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Old Dominion",
+            "Player": "Ketron Shaw",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Old Dominion",
+            "Player": "Jordan Battle",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Old Dominion",
+            "Player": "LJ Thomas",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "South Alabama",
+            "Player": "Chaze Harris",
+            "Value": 18.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Alabama",
+            "Player": "Adam Olsen",
+            "Value": 16.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Alabama",
+            "Player": "Chaze Harris",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southern Mississippi",
+            "Player": "Tylik Weeks",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Mississippi",
+            "Player": "Isaac Taveres",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Mississippi",
+            "Player": "Dylan Brumfield",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Texas State",
+            "Player": "DJ Hall",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas State",
+            "Player": "Mark Drone",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas State",
+            "Player": "Kaden Gumbs",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Troy",
+            "Player": "Victor Valdes",
+            "Value": 15.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Troy",
+            "Player": "Thomas Dowd",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Troy",
+            "Player": "Victor Valdes",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Akron",
+            "Player": "Tavari Johnson",
+            "Value": 20.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Akron",
+            "Player": "Amani Lyles",
+            "Value": 15.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Akron",
+            "Player": "Tavari Johnson",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Ball State",
+            "Player": "Davion Hill",
+            "Value": 12.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ball State",
+            "Player": "Armoni Zeigler",
+            "Value": 12.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ball State",
+            "Player": "Armoni Zeigler",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Bowling Green",
+            "Player": "Javontae Campbell",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bowling Green",
+            "Player": "Sam Towns",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bowling Green",
+            "Player": "Javontae Campbell",
+            "Value": 5.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Buffalo",
+            "Player": "Daniel Freitag",
+            "Value": 20.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Buffalo",
+            "Player": "Ryan Sabol",
+            "Value": 17.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Buffalo",
+            "Player": "Daniel Freitag",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Central Michigan",
+            "Player": "Tamario Adley",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Central Michigan",
+            "Player": "Nathan Claerbaut",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Central Michigan",
+            "Player": "Phat Phat Brooks",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Eastern Michigan",
+            "Player": "Mohammad Habhab",
+            "Value": 14.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Eastern Michigan",
+            "Player": "Addison Patterson",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Eastern Michigan",
+            "Player": "Mohammad Habhab",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Kent State",
+            "Player": "Delrecco Gillespie",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kent State",
+            "Player": "Morgan Safford",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kent State",
+            "Player": "Cian Medley",
+            "Value": 6.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Massachusetts",
+            "Player": "Leonardo Bettiol",
+            "Value": 17.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Massachusetts",
+            "Player": "Marcus Banks Jr.",
+            "Value": 16.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Massachusetts",
+            "Player": "Danny Carbuccia",
+            "Value": 6.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Miami (OH)",
+            "Player": "Peter Suder",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Miami (OH)",
+            "Player": "Brant Byers",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Miami (OH)",
+            "Player": "Luke Skaljac",
+            "Value": 4.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Northern Illinois",
+            "Player": "Makhai Valentine",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Illinois",
+            "Player": "Dylan Ducommun",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Illinois",
+            "Player": "Gianni Cobb",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Ohio",
+            "Player": "Jackson Paveletzke",
+            "Value": 16.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ohio",
+            "Player": "Javan Simmons",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Ohio",
+            "Player": "Jackson Paveletzke",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Toledo",
+            "Player": "Sonny Wilson",
+            "Value": 17.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Toledo",
+            "Player": "Leroy Blyden Jr.",
+            "Value": 15.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Toledo",
+            "Player": "Sonny Wilson",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Western Michigan",
+            "Player": "Justice Williams",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Michigan",
+            "Player": "Jalen Griffith",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Michigan",
+            "Player": "Jalen Griffith",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Delaware",
+            "Player": "Christian Bliss",
+            "Value": 16.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Delaware",
+            "Player": "Justyn Fernandez",
+            "Value": 16.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Delaware",
+            "Player": "Christian Bliss",
+            "Value": 5.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Florida International",
+            "Player": "Corey Stephenson",
+            "Value": 17.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida International",
+            "Player": "Julian Mackey",
+            "Value": 12.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida International",
+            "Player": "Zawdie Jackson",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Jacksonville State",
+            "Player": "Mostapha El Moutaouakkil",
+            "Value": 19.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Jacksonville State",
+            "Player": "AC Bryant",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Jacksonville State",
+            "Player": "Jaye Nash",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Kennesaw State",
+            "Player": "Simeon Cottle",
+            "Value": 20.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kennesaw State",
+            "Player": "RJ Johnson",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kennesaw State",
+            "Player": "Simeon Cottle",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Liberty",
+            "Player": "Brett Decker Jr.",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Liberty",
+            "Player": "Kaden Metheny",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Liberty",
+            "Player": "Zach Cleveland",
+            "Value": 7.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Louisiana Tech",
+            "Player": "DJ Dudley",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana Tech",
+            "Player": "AJ Bates",
+            "Value": 11.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Louisiana Tech",
+            "Player": "AJ Bates",
+            "Value": 5.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Middle Tennessee",
+            "Player": "Kamari Lands",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Middle Tennessee",
+            "Player": "Torey Alston",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Middle Tennessee",
+            "Player": "Sean Smith",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Missouri State",
+            "Player": "Keith Palek III",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Missouri State",
+            "Player": "Kobi Williams",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Missouri State",
+            "Player": "Keith Palek III",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "New Mexico State",
+            "Player": "Jemel Jones",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Mexico State",
+            "Player": "Julius Mims",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Mexico State",
+            "Player": "Gabe Pickens",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Sam Houston State",
+            "Player": "Po'Boigh King",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Sam Houston State",
+            "Player": "Kashie Natt",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Sam Houston State",
+            "Player": "Justin Begg",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "UTEP",
+            "Player": "Elijah Jones",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UTEP",
+            "Player": "Jamal West Jr.",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UTEP",
+            "Player": "Tyreese Watson",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Western Kentucky",
+            "Player": "Teagan Moore",
+            "Value": 18.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Kentucky",
+            "Player": "Grant Newell",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Kentucky",
+            "Player": "Terrion Murdix",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Cleveland State",
+            "Player": "Dayan Nessah",
+            "Value": 15.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cleveland State",
+            "Player": "Tre Beard",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cleveland State",
+            "Player": "Tre Beard",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Detroit Mercy",
+            "Player": "Orlando Lovejoy",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Detroit Mercy",
+            "Player": "TJ Nadeau",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Detroit Mercy",
+            "Player": "Orlando Lovejoy",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Green Bay",
+            "Player": "Marcus Hall",
+            "Value": 14.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Green Bay",
+            "Player": "C.J. O'Hara",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Green Bay",
+            "Player": "Preston Ruedinger",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "IU Indy",
+            "Player": "Kyler D'Augustino",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "IU Indy",
+            "Player": "Jaxon Edwards",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "IU Indy",
+            "Player": "Finley Woodward",
+            "Value": 5.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Milwaukee",
+            "Player": "Seth Hubbard",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Milwaukee",
+            "Player": "Amar Augillard",
+            "Value": 12.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Milwaukee",
+            "Player": "Isaiah Dorceus",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Northern Kentucky",
+            "Player": "Donovan Oday",
+            "Value": 18.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Kentucky",
+            "Player": "Dan Gherezgher Jr.",
+            "Value": 16.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Kentucky",
+            "Player": "Ethan Elliott",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Oakland",
+            "Player": "Brody Robinson",
+            "Value": 16.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oakland",
+            "Player": "Isaac Garrett",
+            "Value": 14.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oakland",
+            "Player": "Brody Robinson",
+            "Value": 6.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Purdue Fort Wayne",
+            "Player": "Corey Hadnot II",
+            "Value": 20.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Purdue Fort Wayne",
+            "Player": "Mikale Stevenson",
+            "Value": 14.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Purdue Fort Wayne",
+            "Player": "Corey Hadnot II",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Robert Morris",
+            "Player": "Ryan Prather Jr.",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Robert Morris",
+            "Player": "DeSean Goode",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Robert Morris",
+            "Player": "Albert Vargas",
+            "Value": 4.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Wright State",
+            "Player": "Michael Cooper",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wright State",
+            "Player": "Michael Imariagbe",
+            "Value": 12.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wright State",
+            "Player": "TJ Burch",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Youngstown State",
+            "Player": "Cris Carroll",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Youngstown State",
+            "Player": "Bryson Dawkins",
+            "Value": 13.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Youngstown State",
+            "Player": "Andrew King",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Belmont",
+            "Player": "Tyler Lundblade",
+            "Value": 15.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Belmont",
+            "Player": "Sam Orme",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Belmont",
+            "Player": "Nic McClain",
+            "Value": 6.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Bradley",
+            "Player": "Jaquan Johnson",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bradley",
+            "Player": "Alex Huibregtse",
+            "Value": 12.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bradley",
+            "Player": "Jaquan Johnson",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Drake",
+            "Player": "Jalen Quinn",
+            "Value": 19.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Drake",
+            "Player": "Jaehshon Thomas",
+            "Value": 9.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Drake",
+            "Player": "Jalen Quinn",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Evansville",
+            "Player": "AJ Casey",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Evansville",
+            "Player": "Connor Turnbull",
+            "Value": 11.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Evansville",
+            "Player": "Leif Moeller",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Illinois State",
+            "Player": "Chase Walker",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Illinois State",
+            "Player": "Johnny Kinziger",
+            "Value": 11.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Illinois State",
+            "Player": "Johnny Kinziger",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Illinois\u00e2\u0080\u0093Chicago",
+            "Player": "Elijah Crawford",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Illinois\u00e2\u0080\u0093Chicago",
+            "Player": "Ahmad Henderson II",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Illinois\u00e2\u0080\u0093Chicago",
+            "Player": "Elijah Crawford",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Indiana State",
+            "Player": "Ian Scott",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Indiana State",
+            "Player": "Camp Wagner",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Indiana State",
+            "Player": "Xavier Hall",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Murray State",
+            "Player": "Javon Jackson",
+            "Value": 16.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Murray State",
+            "Player": "Roman Domon",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Murray State",
+            "Player": "Layne Taylor",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Northern Iowa",
+            "Player": "Trey Campbell",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Iowa",
+            "Player": "Leon Bond III",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Iowa",
+            "Player": "Trey Campbell",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southern Illinois",
+            "Player": "Quel'Ron House",
+            "Value": 15.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Illinois",
+            "Player": "Rolyns Aligbe",
+            "Value": 9.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Illinois",
+            "Player": "Quel'Ron House",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Valparaiso",
+            "Player": "Owen Dease",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Valparaiso",
+            "Player": "JT Pettigrew",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Valparaiso",
+            "Player": "Rakim Chaney",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Canisius",
+            "Player": "Bryan Ndjonga",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Canisius",
+            "Player": "Kahlil Singleton",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Canisius",
+            "Player": "Michael Evbagharu",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Fairfield",
+            "Player": "Braden Sparks",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Fairfield",
+            "Player": "Brandon Benjamin",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Fairfield",
+            "Player": "Braden Sparks",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Iona",
+            "Player": "CJ Anthony",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Iona",
+            "Player": "Toby Harris",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Iona",
+            "Player": "CJ Anthony",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Manhattan",
+            "Player": "Jaden Winston",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Manhattan",
+            "Player": "Devin Dinkins",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Manhattan",
+            "Player": "Jaden Winston",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Marist",
+            "Player": "Rhyjon Blackwell",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Marist",
+            "Player": "Elijah Lewis",
+            "Value": 12.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Marist",
+            "Player": "Justin Menard",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Merrimack",
+            "Player": "Kevair Kennedy",
+            "Value": 18.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Merrimack",
+            "Player": "Ernest Shelton",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Merrimack",
+            "Player": "Kevair Kennedy",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Mount St. Mary's",
+            "Player": "Arlandus Keyes",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mount St. Mary's",
+            "Player": "Luke McEldon",
+            "Value": 11.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mount St. Mary's",
+            "Player": "Xavier Lipscomb",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Niagara",
+            "Player": "Justin Page",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Niagara",
+            "Player": "Justin Hawkins",
+            "Value": 8.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Niagara",
+            "Player": "Trenton Walters",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Quinnipiac",
+            "Player": "Jaden Zimmerman",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Quinnipiac",
+            "Player": "Amarri Monroe",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Quinnipiac",
+            "Player": "Asim Jones",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Rider",
+            "Player": "Flash Burton",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rider",
+            "Player": "Zion Cruz",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Rider",
+            "Player": "Flash Burton",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Sacred Heart",
+            "Player": "Anquan Hill",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Sacred Heart",
+            "Player": "Dashon Gittens",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Sacred Heart",
+            "Player": "Mekhi Conner",
+            "Value": 6.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Saint Peter's",
+            "Player": "Brent Bland",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Peter's",
+            "Player": "Bryce Eaton",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Peter's",
+            "Player": "Bryce Eaton",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Siena",
+            "Player": "Gavin Doty",
+            "Value": 17.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Siena",
+            "Player": "Justice Shoats",
+            "Value": 13.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Siena",
+            "Player": "Justice Shoats",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "East Texas A&M",
+            "Player": "Ronnie Harrison",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "East Texas A&M",
+            "Player": "Damian Garcia",
+            "Value": 10.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "East Texas A&M",
+            "Player": "Gianni Hunt",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Houston Christian",
+            "Player": "Elijah Brooks",
+            "Value": 12.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Houston Christian",
+            "Player": "Kylin Green",
+            "Value": 10.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Houston Christian",
+            "Player": "Kylin Green",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Incarnate Word",
+            "Player": "Davion Bailey",
+            "Value": 18.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Incarnate Word",
+            "Player": "Tahj Staveskie",
+            "Value": 17.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Incarnate Word",
+            "Player": "Tahj Staveskie",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Lamar",
+            "Player": "Rob Lee Jr.",
+            "Value": 16.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lamar",
+            "Player": "Andrew Holifield",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lamar",
+            "Player": "King-Njhsanni Wilhite",
+            "Value": 2.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "McNeese State",
+            "Player": "Larry Johnson",
+            "Value": 16.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "McNeese State",
+            "Player": "Tyshawn Archie",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "McNeese State",
+            "Player": "Garwey Dual",
+            "Value": 4.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "New Orleans",
+            "Player": "Coleton Benson",
+            "Value": 15.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Orleans",
+            "Player": "Jakevion Buckley",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Orleans",
+            "Player": "Jakevion Buckley",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Nicholls State",
+            "Player": "Jalik Dunkley",
+            "Value": 13.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Nicholls State",
+            "Player": "Jaylen Searles",
+            "Value": 13.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Nicholls State",
+            "Player": "Trae English",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Northwestern State",
+            "Player": "Micah Thomas",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northwestern State",
+            "Player": "Izzy Miles",
+            "Value": 10.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northwestern State",
+            "Player": "Micah Thomas",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southeastern Louisiana",
+            "Player": "Isaiah Gaines",
+            "Value": 11.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southeastern Louisiana",
+            "Player": "Jeremy Elyzee",
+            "Value": 10.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southeastern Louisiana",
+            "Player": "Peter Hemschemeier",
+            "Value": 1.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Stephen F. Austin",
+            "Player": "Keon Thompson",
+            "Value": 18.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Stephen F. Austin",
+            "Player": "Lateef Patrick Jr.",
+            "Value": 15.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Stephen F. Austin",
+            "Player": "Keon Thompson",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Texas A&M\u00e2\u0080\u0093Corpus Christi",
+            "Player": "Nicholas Shogbonyo",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas A&M\u00e2\u0080\u0093Corpus Christi",
+            "Player": "Sheldon Williams",
+            "Value": 11.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas A&M\u00e2\u0080\u0093Corpus Christi",
+            "Player": "DA Houston",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Texas\u00e2\u0080\u0093Rio Grande Valley",
+            "Player": "Koree Cotton",
+            "Value": 13.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas\u00e2\u0080\u0093Rio Grande Valley",
+            "Player": "Filip Brankovic",
+            "Value": 13.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas\u00e2\u0080\u0093Rio Grande Valley",
+            "Player": "Jaylen Washington",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Denver",
+            "Player": "Carson Johnson",
+            "Value": 20.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Denver",
+            "Player": "Jeremiah Burke",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Denver",
+            "Player": "Carson Johnson",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Kansas City",
+            "Player": "Karmello Branch",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kansas City",
+            "Player": "U'Riyah Evans",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Kansas City",
+            "Player": "U'Riyah Evans",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "North Dakota",
+            "Player": "Greyson Uelmen",
+            "Value": 15.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Dakota",
+            "Player": "Eli King",
+            "Value": 11.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Dakota",
+            "Player": "Greyson Uelmen",
+            "Value": 2.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "North Dakota State",
+            "Player": "Damari Wheeler-Thomas",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Dakota State",
+            "Player": "Markhi Strickland",
+            "Value": 12.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Dakota State",
+            "Player": "Andy Stefonowicz",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Omaha",
+            "Player": "Paul Djobet",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Omaha",
+            "Player": "Lance Waddles",
+            "Value": 13.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Omaha",
+            "Player": "Grant Stubblefield",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Oral Roberts",
+            "Player": "Ty Harper",
+            "Value": 16.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oral Roberts",
+            "Player": "Ofri Naveh",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Oral Roberts",
+            "Player": "Ty Harper",
+            "Value": 2.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "South Dakota",
+            "Player": "Isaac Bruns",
+            "Value": 20.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Dakota",
+            "Player": "Cameron Fens",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Dakota",
+            "Player": "Uzziah Buntyn",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "South Dakota State",
+            "Player": "Joe Sayler",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Dakota State",
+            "Player": "Damon Wilkinson",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Dakota State",
+            "Player": "Kalen Garry",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "St. Thomas",
+            "Player": "Nolan Minessale",
+            "Value": 19.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. Thomas",
+            "Player": "Nick Janowski",
+            "Value": 16.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "St. Thomas",
+            "Player": "Nolan Minessale",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Abilene Christian",
+            "Player": "Bradyn Hubbard",
+            "Value": 16.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Abilene Christian",
+            "Player": "Rich Smith",
+            "Value": 9.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Abilene Christian",
+            "Player": "Rich Smith",
+            "Value": 4.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "California Baptist",
+            "Player": "Dominique Daniels Jr.",
+            "Value": 22.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "California Baptist",
+            "Player": "Martel Williams",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "California Baptist",
+            "Player": "Dominique Daniels Jr.",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southern Utah",
+            "Player": "Elijah Duval",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Utah",
+            "Player": "Jaiden Feroah",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Utah",
+            "Player": "Elijah Duval",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Tarleton State",
+            "Player": "Dior Johnson",
+            "Value": 23.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tarleton State",
+            "Player": "Camron McDowell",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tarleton State",
+            "Player": "DJ Dormu",
+            "Value": 2.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "UT Arlington",
+            "Player": "Marcell McCreary",
+            "Value": 13.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UT Arlington",
+            "Player": "Raysean Seamster",
+            "Value": 12.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UT Arlington",
+            "Player": "Casmir Chavis",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Utah Tech",
+            "Player": "Ethan Potter",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah Tech",
+            "Player": "Noah Bolanga",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah Tech",
+            "Player": "Jusaun Holt",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Utah Valley",
+            "Player": "Jackson Holcombe",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah Valley",
+            "Player": "Tyler Hendricks",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Utah Valley",
+            "Player": "Trevan Leonhardt",
+            "Value": 6.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Eastern Washington",
+            "Player": "Isaiah Moses",
+            "Value": 17.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Eastern Washington",
+            "Player": "Kiree Huie",
+            "Value": 13.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Eastern Washington",
+            "Player": "Isaiah Moses",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Idaho",
+            "Player": "Kristian Gonzalez",
+            "Value": 18.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Idaho",
+            "Player": "Jackson Rasmussen",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Idaho",
+            "Player": "Kolton Mitchell",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Idaho State",
+            "Player": "Connor Hollenbeck",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Idaho State",
+            "Player": "Caleb Van De Griend",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Idaho State",
+            "Player": "Jamison Guerra",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Montana",
+            "Player": "Money Williams",
+            "Value": 19.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Montana",
+            "Player": "Te'Jon Sawyer",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Montana",
+            "Player": "Money Williams",
+            "Value": 5.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Montana State",
+            "Player": "Jed Miller",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Montana State",
+            "Player": "Patrick McMahon",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Montana State",
+            "Player": "Jed Miller",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Northern Arizona",
+            "Player": "Zack Davidson",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Arizona",
+            "Player": "Ryan Abelman",
+            "Value": 11.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Arizona",
+            "Player": "Brennan Peterson",
+            "Value": 2.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Northern Colorado",
+            "Player": "Quinn Denker",
+            "Value": 18.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Colorado",
+            "Player": "Brock Wisne",
+            "Value": 16.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Northern Colorado",
+            "Player": "Quinn Denker",
+            "Value": 7.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Portland State",
+            "Player": "Terri Miller Jr.",
+            "Value": 19.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Portland State",
+            "Player": "Jaylin Henderson",
+            "Value": 17.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Portland State",
+            "Player": "Jaylin Henderson",
+            "Value": 5.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Sacramento State",
+            "Player": "Prophet Johnson",
+            "Value": 18.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Sacramento State",
+            "Player": "Mikey Williams",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Sacramento State",
+            "Player": "Mikey Williams",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Weber State",
+            "Player": "Tijan Saine",
+            "Value": 17.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Weber State",
+            "Player": "Viljami Vartiainen",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Weber State",
+            "Player": "Tijan Saine",
+            "Value": 4.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Charleston Southern",
+            "Player": "A'lahn Sumler",
+            "Value": 19.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Charleston Southern",
+            "Player": "Brycen Blaine",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Charleston Southern",
+            "Player": "Luke Williams",
+            "Value": 4.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Gardner-Webb",
+            "Player": "Jacob Hogarth",
+            "Value": 11.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Gardner-Webb",
+            "Player": "Jacob Hudson",
+            "Value": 10.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Gardner-Webb",
+            "Player": "Colin Hawkins",
+            "Value": 2.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "High Point",
+            "Player": "Terry Anderson",
+            "Value": 15.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "High Point",
+            "Player": "Rob Martin",
+            "Value": 15.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "High Point",
+            "Player": "Conrad Martinez",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Longwood",
+            "Player": "Elijah Tucker",
+            "Value": 12.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Longwood",
+            "Player": "Jacoi Hutchinson",
+            "Value": 12.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Longwood",
+            "Player": "Jacoi Hutchinson",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Presbyterian",
+            "Player": "Jonah Pierce",
+            "Value": 16.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Presbyterian",
+            "Player": "Carl Parrish",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Presbyterian",
+            "Player": "Triston Wilson",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Radford",
+            "Player": "Dennis Parker Jr.",
+            "Value": 19.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Radford",
+            "Player": "Del Jones",
+            "Value": 17.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Radford",
+            "Player": "Jaylon Johnson",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "UNC Asheville",
+            "Player": "Kameron Taylor",
+            "Value": 18.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UNC Asheville",
+            "Player": "Justin Wright",
+            "Value": 17.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UNC Asheville",
+            "Player": "Kameron Taylor",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "USC Upstate",
+            "Player": "Karmani Gregory",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "USC Upstate",
+            "Player": "Mason Bendinger",
+            "Value": 15.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "USC Upstate",
+            "Player": "Karmani Gregory",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Winthrop",
+            "Player": "Logan Duncomb",
+            "Value": 19.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Winthrop",
+            "Player": "Kareem Rozier",
+            "Value": 13.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Winthrop",
+            "Player": "Kareem Rozier",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Cal Poly",
+            "Player": "Hamad Mousa",
+            "Value": 20.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal Poly",
+            "Player": "Cayden Ward",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal Poly",
+            "Player": "Peter Bandelj",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Cal State Bakersfield",
+            "Player": "Dailin Smith",
+            "Value": 16.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal State Bakersfield",
+            "Player": "CJ Hardy",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal State Bakersfield",
+            "Player": "CJ Hardy",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Cal State Fullerton",
+            "Player": "Josh Ward",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal State Fullerton",
+            "Player": "Landon Seaman",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal State Fullerton",
+            "Player": "Josh Ward",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Cal State Northridge",
+            "Player": "Larry Hughes Jr.",
+            "Value": 18.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal State Northridge",
+            "Player": "Josiah Davis",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cal State Northridge",
+            "Player": "Josiah Davis",
+            "Value": 7.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Hawaii",
+            "Player": "Isaac Johnson",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Hawaii",
+            "Player": "Quandre Bullock",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Hawaii",
+            "Player": "Aaron Hunkin-Claytor",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Long Beach State",
+            "Player": "Gavin Sykes",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Long Beach State",
+            "Player": "Petar Majstorovic",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Long Beach State",
+            "Player": "Rob Diaz",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "UC Davis",
+            "Player": "Connor Sevilla",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Davis",
+            "Player": "Nils Cooper",
+            "Value": 12.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Davis",
+            "Player": "Brayden Fagbemi",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "UC Irvine",
+            "Player": "Jurian Dixon",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Irvine",
+            "Player": "Kyle Evans",
+            "Value": 12.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Irvine",
+            "Player": "Tama Isaac",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "UC Riverside",
+            "Player": "Andrew Henderson",
+            "Value": 17.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Riverside",
+            "Player": "Marqui Worthy",
+            "Value": 15.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Riverside",
+            "Player": "Marqui Worthy",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "UC San Diego",
+            "Player": "Leo Beath",
+            "Value": 12.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC San Diego",
+            "Player": "Bol Dengdit",
+            "Value": 11.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC San Diego",
+            "Player": "Emanuel Prospere II",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "UC Santa Barbara",
+            "Player": "Aidan Mahaney",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Santa Barbara",
+            "Player": "CJ Shaw",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UC Santa Barbara",
+            "Player": "Miro Little",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Brown",
+            "Player": "Landon Lewis",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Brown",
+            "Player": "Adrian Uchidiuno",
+            "Value": 9.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Brown",
+            "Player": "Jeremiah Jenkins",
+            "Value": 5.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Columbia",
+            "Player": "Kenny Noland",
+            "Value": 16.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Columbia",
+            "Player": "Zinou Eddine Bedri",
+            "Value": 12.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Columbia",
+            "Player": "Kenny Noland",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Cornell",
+            "Player": "Cooper Noard",
+            "Value": 18.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cornell",
+            "Player": "Jake Fiegen",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Cornell",
+            "Player": "Josh Baldwin",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Dartmouth",
+            "Player": "Kareem Thomas",
+            "Value": 16.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Dartmouth",
+            "Player": "Jayden Williams",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Dartmouth",
+            "Player": "Connor Amundsen",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Harvard",
+            "Player": "Robert Hinton",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Harvard",
+            "Player": "Tey Barbour",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Harvard",
+            "Player": "Chandler Pigge",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Pennsylvania",
+            "Player": "Ethan Roberts",
+            "Value": 17.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pennsylvania",
+            "Player": "TJ Power",
+            "Value": 15.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Pennsylvania",
+            "Player": "AJ Levine",
+            "Value": 4.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Princeton",
+            "Player": "Jackson Hicke",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Princeton",
+            "Player": "Dalen Davis",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Princeton",
+            "Player": "Jackson Hicke",
+            "Value": 2.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Yale",
+            "Player": "Nick Townsend",
+            "Value": 16.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Yale",
+            "Player": "Isaac Celiscar",
+            "Value": 12.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Yale",
+            "Player": "Nick Townsend",
+            "Value": 4.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Coppin State",
+            "Player": "Demariontay Hall",
+            "Value": 9.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Coppin State",
+            "Player": "Hussain Williams",
+            "Value": 7.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Coppin State",
+            "Player": "Hassan Perkins",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Delaware State",
+            "Player": "Ponce James",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Delaware State",
+            "Player": "Miles Webb",
+            "Value": 9.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Delaware State",
+            "Player": "Ponce James",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Howard",
+            "Player": "Cedric Taylor III",
+            "Value": 17.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Howard",
+            "Player": "Bryce Harris",
+            "Value": 17.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Howard",
+            "Player": "Cam Gillus",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Maryland Eastern Shore",
+            "Player": "Zion Obanla",
+            "Value": 10.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Maryland Eastern Shore",
+            "Player": "Joseph Locandro",
+            "Value": 9.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Maryland Eastern Shore",
+            "Player": "Michael Teal",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Morgan State",
+            "Player": "Alfred Worrell Jr.",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Morgan State",
+            "Player": "Elijah Davis",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Morgan State",
+            "Player": "Elijah Davis",
+            "Value": 6.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Norfolk State",
+            "Player": "Anthony McComb III",
+            "Value": 16.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Norfolk State",
+            "Player": "Elijah Jamison",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Norfolk State",
+            "Player": "Elijah Jamison",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "North Carolina Central",
+            "Player": "Gage Lattimore",
+            "Value": 17.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Carolina Central",
+            "Player": "Khouri Carvey",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "North Carolina Central",
+            "Player": "Dionte Johnson",
+            "Value": 5.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "South Carolina State",
+            "Player": "Jayden Johnson",
+            "Value": 13.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Carolina State",
+            "Player": "Owen Bronston, Jr.",
+            "Value": 10.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "South Carolina State",
+            "Player": "Jayden Johnson",
+            "Value": 3.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Central Connecticut State",
+            "Player": "Darin Smith Jr.",
+            "Value": 20.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Central Connecticut State",
+            "Player": "Max Frazier",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Central Connecticut State",
+            "Player": "Jay Rodgers",
+            "Value": 7.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Chicago State",
+            "Player": "CJ Ray",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Chicago State",
+            "Player": "Marcus Tankersley",
+            "Value": 13.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Chicago State",
+            "Player": "Braelon Bush",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "FDU",
+            "Player": "Joey Niesman",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "FDU",
+            "Player": "Eric Parnell",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "FDU",
+            "Player": "Joey Niesman",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "LIU",
+            "Player": "Jamal Fuller",
+            "Value": 16.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "LIU",
+            "Player": "Malachi Davis",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "LIU",
+            "Player": "Malachi Davis",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Le Moyne",
+            "Player": "Shilo Jackson",
+            "Value": 15.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Le Moyne",
+            "Player": "Trent Mosquera",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Le Moyne",
+            "Player": "Ametri Moss",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Mercyhurst",
+            "Player": "Bernie Blunt III",
+            "Value": 17.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mercyhurst",
+            "Player": "Jake Lemelman",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mercyhurst",
+            "Player": "Jake Lemelman",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "New Haven",
+            "Player": "Jabri Fitzpatrick",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Haven",
+            "Player": "Najimi George",
+            "Value": 11.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Haven",
+            "Player": "Jabri Fitzpatrick",
+            "Value": 2.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Saint Francis (PA)",
+            "Player": "Skylar Wicks",
+            "Value": 18.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Francis (PA)",
+            "Player": "Zion Russell",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Saint Francis (PA)",
+            "Player": "Zion Russell",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Stonehill",
+            "Player": "Hermann Koffi",
+            "Value": 13.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Stonehill",
+            "Player": "Davante Hackett",
+            "Value": 12.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Stonehill",
+            "Player": "Rex Sunderland",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Wagner",
+            "Player": "Nick Jones",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wagner",
+            "Player": "Jaden Baker",
+            "Value": 9.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wagner",
+            "Player": "Jaden Baker",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Eastern Illinois",
+            "Player": "Zion Fruster",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Eastern Illinois",
+            "Player": "Andre Washington",
+            "Value": 10.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Eastern Illinois",
+            "Player": "Meechie White",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Lindenwood",
+            "Player": "Anias Futrell",
+            "Value": 17.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lindenwood",
+            "Player": "Jadis Jones",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lindenwood",
+            "Player": "Mekhi Cooper",
+            "Value": 4.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Little Rock",
+            "Player": "Johnathan Lawson",
+            "Value": 16.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Little Rock",
+            "Player": "Cameron Wallace",
+            "Value": 12.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Little Rock",
+            "Player": "Johnathan Lawson",
+            "Value": 4.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Morehead State",
+            "Player": "George Marshall",
+            "Value": 12.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Morehead State",
+            "Player": "Davion Cunningham",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Morehead State",
+            "Player": "Josiah LeGree",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "SIU Edwardsville",
+            "Player": "Ring Malith",
+            "Value": 17.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "SIU Edwardsville",
+            "Player": "Myles Thompson",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "SIU Edwardsville",
+            "Player": "Jack Campion",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southeast Missouri State",
+            "Player": "Luke Almodovar",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southeast Missouri State",
+            "Player": "BJ Ward",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southeast Missouri State",
+            "Player": "BJ Ward",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southern Indiana",
+            "Player": "Ismail Habib",
+            "Value": 15.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Indiana",
+            "Player": "Amaree Brown",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern Indiana",
+            "Player": "Ismail Habib",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Tennessee State",
+            "Player": "Aaron Nkrumah",
+            "Value": 17.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tennessee State",
+            "Player": "Travis Harper II",
+            "Value": 17.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tennessee State",
+            "Player": "Dante Harris",
+            "Value": 4.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Tennessee Tech",
+            "Player": "Mekhi Cameron",
+            "Value": 11.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tennessee Tech",
+            "Player": "JaJuan Nicholls",
+            "Value": 11.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Tennessee Tech",
+            "Player": "Ty Owens",
+            "Value": 3.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "UT Martin",
+            "Player": "Andrija Bukumirovi\u00c4\u0087",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UT Martin",
+            "Player": "Dragos Lungu",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UT Martin",
+            "Player": "Dragos Lungu",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Western Illinois",
+            "Player": "Lucas Lorenzen",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Illinois",
+            "Player": "Isaiah Griffin",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Illinois",
+            "Player": "Makai Kvamme",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "American",
+            "Player": "Madden Collins",
+            "Value": 13.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "American",
+            "Player": "Greg Jones",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "American",
+            "Player": "Julen Iturbe",
+            "Value": 2.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Army",
+            "Player": "Ryan Curry",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Army",
+            "Player": "Jaxson Bell",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Army",
+            "Player": "Ryan Curry",
+            "Value": 4.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Boston University",
+            "Player": "Michael McNair",
+            "Value": 16.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Boston University",
+            "Player": "Ben Defty",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Boston University",
+            "Player": "Chance Gladden",
+            "Value": 4.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Bucknell",
+            "Player": "Amon D\u00c3\u00b6rries",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bucknell",
+            "Player": "Ruot Bijiek",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bucknell",
+            "Player": "Jayden Williams",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Colgate",
+            "Player": "Jalen Cox",
+            "Value": 17.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Colgate",
+            "Player": "Andrew Alekseyenko",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Colgate",
+            "Player": "Jalen Cox",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Holy Cross",
+            "Player": "Tyler Boston",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Holy Cross",
+            "Player": "Joe Nugent",
+            "Value": 11.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Holy Cross",
+            "Player": "Tyler Boston",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Lafayette",
+            "Player": "Caleb Williams",
+            "Value": 16.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lafayette",
+            "Player": "Andrew Phillips",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lafayette",
+            "Player": "Mark Butler",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Lehigh",
+            "Player": "Nasir Whitlock",
+            "Value": 20.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lehigh",
+            "Player": "Hank Alvey",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Lehigh",
+            "Player": "Joshua Ingram",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Loyola (MD)",
+            "Player": "Braeden Speed",
+            "Value": 15.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Loyola (MD)",
+            "Player": "Emmett Adair",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Loyola (MD)",
+            "Player": "Braeden Speed",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Navy",
+            "Player": "Austin Benigni",
+            "Value": 18.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Navy",
+            "Player": "Aidan Kehoe",
+            "Value": 15.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Navy",
+            "Player": "Austin Benigni",
+            "Value": 4.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Chattanooga",
+            "Player": "Jordan Frison",
+            "Value": 15.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Chattanooga",
+            "Player": "Brennan Watkins",
+            "Value": 10.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Chattanooga",
+            "Player": "Jordan Frison",
+            "Value": 3.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "East Tennessee State",
+            "Player": "Brian Taylor",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "East Tennessee State",
+            "Player": "Cam Morris III",
+            "Value": 14.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "East Tennessee State",
+            "Player": "Allen Strothers",
+            "Value": 3.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Furman",
+            "Player": "Alex Wilkins",
+            "Value": 17.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Furman",
+            "Player": "Asa Thomas",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Furman",
+            "Player": "Alex Wilkins",
+            "Value": 5.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Mercer",
+            "Player": "Baraka Okojie",
+            "Value": 19.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mercer",
+            "Player": "Armani Mighty",
+            "Value": 13.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mercer",
+            "Player": "Baraka Okojie",
+            "Value": 5.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Samford",
+            "Player": "Jadin Booth",
+            "Value": 20.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Samford",
+            "Player": "Dylan Faulkner",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Samford",
+            "Player": "Keaton Norris",
+            "Value": 4.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "The Citadel",
+            "Player": "Braxton Williams",
+            "Value": 13.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "The Citadel",
+            "Player": "Christian Moore",
+            "Value": 11.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "The Citadel",
+            "Player": "Eze Wali",
+            "Value": 2.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "UNC Greensboro",
+            "Player": "Justin Neely",
+            "Value": 18.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UNC Greensboro",
+            "Player": "KJ Younger",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UNC Greensboro",
+            "Player": "Justin Neely",
+            "Value": 2.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "VMI",
+            "Player": "TJ Johnson",
+            "Value": 18.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "VMI",
+            "Player": "Linus Holmstrom",
+            "Value": 11.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "VMI",
+            "Player": "Tan Yildizoglu",
+            "Value": 4.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Western Carolina",
+            "Player": "Cord Stansberry",
+            "Value": 13.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Carolina",
+            "Player": "Marcus Kell",
+            "Value": 13.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Western Carolina",
+            "Player": "Tidjiane Dioumassi",
+            "Value": 2.9,
+            "Type": "APG"
+        },
+        {
+            "Team": "Wofford",
+            "Player": "Kahmare Holmes",
+            "Value": 19.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wofford",
+            "Player": "Nils Machowski",
+            "Value": 16.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Wofford",
+            "Player": "Cayden Vasko",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Alabama A&M",
+            "Player": "Kintavious Dozier",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alabama A&M",
+            "Player": "Koron Davis",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alabama A&M",
+            "Player": "Sami Pissis",
+            "Value": 3.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Alabama State",
+            "Player": "Asjon Anderson",
+            "Value": 15.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alabama State",
+            "Player": "Micah Simpson",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alabama State",
+            "Player": "Trey Miller",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Alcorn State",
+            "Player": "Shane Lancaster",
+            "Value": 11.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alcorn State",
+            "Player": "Tycen McDaniels",
+            "Value": 10.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Alcorn State",
+            "Player": "Jameel Morris",
+            "Value": 3.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Arkansas\u00e2\u0080\u0093Pine Bluff",
+            "Player": "Quion Williams",
+            "Value": 17.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arkansas\u00e2\u0080\u0093Pine Bluff",
+            "Player": "Jaquan Scott",
+            "Value": 15.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Arkansas\u00e2\u0080\u0093Pine Bluff",
+            "Player": "Quion Williams",
+            "Value": 5.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Bethune-Cookman",
+            "Player": "Jakobi Heady",
+            "Value": 18.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bethune-Cookman",
+            "Player": "Doctor Bradley",
+            "Value": 11.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bethune-Cookman",
+            "Player": "Seneca Willoughby",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Florida A&M",
+            "Player": "Jaquan Sanders",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida A&M",
+            "Player": "Tyler Shirley",
+            "Value": 11.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Florida A&M",
+            "Player": "Jaquan Sanders",
+            "Value": 3.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Grambling State",
+            "Player": "Antonio Munoz",
+            "Value": 12.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Grambling State",
+            "Player": "Jamil Muttilib",
+            "Value": 11.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Grambling State",
+            "Player": "Roderick Coffee III",
+            "Value": 4.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "Jackson State",
+            "Player": "Daeshun Ruffin",
+            "Value": 23.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Jackson State",
+            "Player": "Jayme Mitchell",
+            "Value": 14.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Jackson State",
+            "Player": "Daeshun Ruffin",
+            "Value": 5.6,
+            "Type": "APG"
+        },
+        {
+            "Team": "Mississippi Valley State",
+            "Player": "Michael James",
+            "Value": 21.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mississippi Valley State",
+            "Player": "Daniel Mayfield",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Mississippi Valley State",
+            "Player": "Xzayvion Childress",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "Prairie View A&M",
+            "Player": "Tai'reon Joseph",
+            "Value": 19.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Prairie View A&M",
+            "Player": "Dontae Horne",
+            "Value": 19.4,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Prairie View A&M",
+            "Player": "Lance Williams",
+            "Value": 3.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Southern",
+            "Player": "Michael Jacobs",
+            "Value": 18.2,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern",
+            "Player": "Malek Abdelgowad",
+            "Value": 11.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Southern",
+            "Player": "Michael Jacobs",
+            "Value": 5.2,
+            "Type": "APG"
+        },
+        {
+            "Team": "Texas Southern",
+            "Player": "Troy Hupstead",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas Southern",
+            "Player": "Bryce Roberts",
+            "Value": 11.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Texas Southern",
+            "Player": "Jaylen Wysinger",
+            "Value": 2.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "Albany (NY)",
+            "Player": "Amir Lindsey",
+            "Value": 17.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Albany (NY)",
+            "Player": "Okechukwu Okeke",
+            "Value": 10.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Albany (NY)",
+            "Player": "Amir Lindsey",
+            "Value": 4.7,
+            "Type": "APG"
+        },
+        {
+            "Team": "Binghamton",
+            "Player": "Demetrius Lilley",
+            "Value": 14.6,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Binghamton",
+            "Player": "Jeremiah Quigley",
+            "Value": 14.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Binghamton",
+            "Player": "Jeremiah Quigley",
+            "Value": 6.5,
+            "Type": "APG"
+        },
+        {
+            "Team": "Bryant",
+            "Player": "Timofei Rudovskii",
+            "Value": 12.3,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bryant",
+            "Player": "Aaron Davis",
+            "Value": 10.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Bryant",
+            "Player": "Ty Tabales",
+            "Value": 3.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "Maine",
+            "Player": "TJ Biel",
+            "Value": 12.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Maine",
+            "Player": "Logan Carey",
+            "Value": 9.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Maine",
+            "Player": "Logan Carey",
+            "Value": 2.1,
+            "Type": "APG"
+        },
+        {
+            "Team": "NJIT",
+            "Player": "Sebastian Robinson",
+            "Value": 14.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "NJIT",
+            "Player": "David Bolden",
+            "Value": 12.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "NJIT",
+            "Player": "David Bolden",
+            "Value": 2.8,
+            "Type": "APG"
+        },
+        {
+            "Team": "New Hampshire",
+            "Player": "Jack Graham",
+            "Value": 10.9,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Hampshire",
+            "Player": "Belal El Shakery",
+            "Value": 10.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "New Hampshire",
+            "Player": "KiJan Robinson",
+            "Value": 2.4,
+            "Type": "APG"
+        },
+        {
+            "Team": "UMBC",
+            "Player": "Jah'Likai King",
+            "Value": 14.1,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UMBC",
+            "Player": "DJ Armstrong",
+            "Value": 13.0,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UMBC",
+            "Player": "Ace Valentine",
+            "Value": 4.0,
+            "Type": "APG"
+        },
+        {
+            "Team": "UMass Lowell",
+            "Player": "Angel Montas",
+            "Value": 14.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UMass Lowell",
+            "Player": "Austin Green",
+            "Value": 13.7,
+            "Type": "PPG"
+        },
+        {
+            "Team": "UMass Lowell",
+            "Player": "Darrel Yepdo",
+            "Value": 3.3,
+            "Type": "APG"
+        },
+        {
+            "Team": "Vermont",
+            "Player": "Gus Yalden",
+            "Value": 16.5,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Vermont",
+            "Player": "TJ Hurley",
+            "Value": 14.8,
+            "Type": "PPG"
+        },
+        {
+            "Team": "Vermont",
+            "Player": "Sean Blake",
+            "Value": 4.1,
+            "Type": "APG"
+        }
+    ],
+    "odds": [
+        {
+            "Home": "Lamar Cardinals",
+            "Away": "Nicholls St Colonels",
+            "Vegas_Spread": -3.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T00:00:00Z"
+        },
+        {
+            "Home": "North Carolina Tar Heels",
+            "Away": "Louisville Cardinals",
+            "Vegas_Spread": 3.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-24T00:00:00Z"
+        },
+        {
+            "Home": "SE Louisiana Lions",
+            "Away": "Texas A&M-CC Islanders",
+            "Vegas_Spread": 1.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T00:00:00Z"
+        },
+        {
+            "Home": "East Texas A&M Lions",
+            "Away": "Houston Christian Huskies",
+            "Vegas_Spread": -3.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T00:30:00Z"
+        },
+        {
+            "Home": "Northwestern St Demons",
+            "Away": "Incarnate Word Cardinals",
+            "Vegas_Spread": -2.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T00:30:00Z"
+        },
+        {
+            "Home": "McNeese Cowboys",
+            "Away": "UT Rio Grande Valley Vaqueros",
+            "Vegas_Spread": -12.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T00:30:00Z"
+        },
+        {
+            "Home": "Stephen F. Austin Lumberjacks",
+            "Away": "New Orleans Privateers",
+            "Vegas_Spread": -11.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T00:30:00Z"
+        },
+        {
+            "Home": "Grambling St Tigers",
+            "Away": "Miss Valley St Delta Devils",
+            "Vegas_Spread": -15.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T01:00:00Z"
+        },
+        {
+            "Home": "Kansas Jayhawks",
+            "Away": "Houston Cougars",
+            "Vegas_Spread": 1.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-24T02:00:00Z"
+        },
+        {
+            "Home": "Eastern Michigan Eagles",
+            "Away": "Miami (OH) RedHawks",
+            "Vegas_Spread": 8.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-24T23:30:00Z"
+        },
+        {
+            "Home": "La Salle Explorers",
+            "Away": "GW Revolutionaries",
+            "Vegas_Spread": 7.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-24T23:30:00Z"
+        },
+        {
+            "Home": "Rutgers Scarlet Knights",
+            "Away": "Washington Huskies",
+            "Vegas_Spread": 4.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-24T23:30:00Z"
+        },
+        {
+            "Home": "Akron Zips",
+            "Away": "Buffalo Bulls",
+            "Vegas_Spread": -15.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Ball State Cardinals",
+            "Away": "Massachusetts Minutemen",
+            "Vegas_Spread": 4.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Boston College Eagles",
+            "Away": "Wake Forest Demon Deacons",
+            "Vegas_Spread": 3.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Bowling Green Falcons",
+            "Away": "Western Michigan Broncos",
+            "Vegas_Spread": -13.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Kent State Golden Flashes",
+            "Away": "Central Michigan Chippewas",
+            "Vegas_Spread": -11.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Texas Tech Red Raiders",
+            "Away": "Cincinnati Bearcats",
+            "Vegas_Spread": -5.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Dayton Flyers",
+            "Away": "Saint Louis Billikens",
+            "Vegas_Spread": 5.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Notre Dame Fighting Irish",
+            "Away": "Duke Blue Devils",
+            "Vegas_Spread": 15.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Georgetown Hoyas",
+            "Away": "Marquette Golden Eagles",
+            "Vegas_Spread": -4.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Indiana Hoosiers",
+            "Away": "Northwestern Wildcats",
+            "Vegas_Spread": -8.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Troy Trojans",
+            "Away": "Louisiana Ragin' Cajuns",
+            "Vegas_Spread": -11.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Marshall Thundering Herd",
+            "Away": "Old Dominion Monarchs",
+            "Vegas_Spread": -6.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Toledo Rockets",
+            "Away": "Northern Illinois Huskies",
+            "Vegas_Spread": -12.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "Oklahoma St Cowboys",
+            "Away": "West Virginia Mountaineers",
+            "Vegas_Spread": -2.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:00:00Z"
+        },
+        {
+            "Home": "South Carolina Gamecocks",
+            "Away": "Kentucky Wildcats",
+            "Vegas_Spread": 5.5,
+            "Bookmaker": "FanDuel",
+            "Commence_Time": "2026-02-25T00:00:02Z"
+        },
+        {
+            "Home": "Virginia Cavaliers",
+            "Away": "NC State Wolfpack",
+            "Vegas_Spread": -4.5,
+            "Bookmaker": "FanDuel",
+            "Commence_Time": "2026-02-25T00:00:40Z"
+        },
+        {
+            "Home": "Georgia St Panthers",
+            "Away": "Coastal Carolina Chanticleers",
+            "Vegas_Spread": 0.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:30:00Z"
+        },
+        {
+            "Home": "Morehead St Eagles",
+            "Away": "Southern Indiana Screaming Eagles",
+            "Vegas_Spread": -8.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T00:30:00Z"
+        },
+        {
+            "Home": "Providence Friars",
+            "Away": "Xavier Musketeers",
+            "Vegas_Spread": -5.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T00:30:00Z"
+        },
+        {
+            "Home": "UIC Flames",
+            "Away": "Bradley Braves",
+            "Vegas_Spread": -2.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T01:00:00Z"
+        },
+        {
+            "Home": "Arkansas St Red Wolves",
+            "Away": "Southern Miss Golden Eagles",
+            "Vegas_Spread": -9.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T01:30:00Z"
+        },
+        {
+            "Home": "Michigan Wolverines",
+            "Away": "Minnesota Golden Gophers",
+            "Vegas_Spread": -22.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T01:30:00Z"
+        },
+        {
+            "Home": "Air Force Falcons",
+            "Away": "San Jos\u00e9 St Spartans",
+            "Vegas_Spread": 6.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "TCU Horned Frogs",
+            "Away": "Arizona St Sun Devils",
+            "Vegas_Spread": -6.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "Baylor Bears",
+            "Away": "Arizona Wildcats",
+            "Vegas_Spread": 11.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "Oklahoma Sooners",
+            "Away": "Auburn Tigers",
+            "Vegas_Spread": 1.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "Boise State Broncos",
+            "Away": "Wyoming Cowboys",
+            "Vegas_Spread": -8.0,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "Colorado St Rams",
+            "Away": "Fresno St Bulldogs",
+            "Vegas_Spread": -8.5,
+            "Bookmaker": "BetOnline.ag",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "Florida St Seminoles",
+            "Away": "Miami Hurricanes",
+            "Vegas_Spread": 2.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "Utah Utes",
+            "Away": "Iowa State Cyclones",
+            "Vegas_Spread": 11.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "Missouri Tigers",
+            "Away": "Tennessee Volunteers",
+            "Vegas_Spread": 3.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T02:00:00Z"
+        },
+        {
+            "Home": "BYU Cougars",
+            "Away": "UCF Knights",
+            "Vegas_Spread": -9.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T04:00:00Z"
+        },
+        {
+            "Home": "Nevada Wolf Pack",
+            "Away": "New Mexico Lobos",
+            "Vegas_Spread": -1.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T04:00:00Z"
+        },
+        {
+            "Home": "UCLA Bruins",
+            "Away": "USC Trojans",
+            "Vegas_Spread": -5.5,
+            "Bookmaker": "DraftKings",
+            "Commence_Time": "2026-02-25T04:00:00Z"
+        }
+    ],
+    "slate": [
+        {
+            "Home": "Michigan",
+            "Away": "Minnesota",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Notre Dame",
+            "Away": "Duke",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Baylor",
+            "Away": "Arizona",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Utah",
+            "Away": "Iowa State",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Texas Tech",
+            "Away": "Cincinnati",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Virginia",
+            "Away": "NC State",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Dayton",
+            "Away": "Saint Louis",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Eastern Michigan",
+            "Away": "Miami",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "BYU",
+            "Away": "UCF",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Akron",
+            "Away": "Buffalo",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Boston College",
+            "Away": "Wake Forest",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Indiana",
+            "Away": "Northwestern",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Kent State",
+            "Away": "Central Michigan",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Providence",
+            "Away": "Xavier",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Rutgers",
+            "Away": "Washington",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "UIC",
+            "Away": "Bradley",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "North Texas",
+            "Away": "UTSA",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Troy",
+            "Away": "Louisiana",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Tulsa",
+            "Away": "Tulane",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Air Force",
+            "Away": "San Jose State",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Boise State",
+            "Away": "Wyoming",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Colorado State",
+            "Away": "Fresno State",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Nevada",
+            "Away": "New Mexico",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "UCLA",
+            "Away": "USC",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Georgia State",
+            "Away": "Coastal Carolina",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Morehead State",
+            "Away": "Southern Indiana",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "La Salle",
+            "Away": "George Washington",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "New Haven",
+            "Away": "Saint Francis",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Ball State",
+            "Away": "UMass",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Bowling Green",
+            "Away": "Western Michigan",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Florida Atlantic",
+            "Away": "Charlotte",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Georgetown",
+            "Away": "Marquette",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Marshall",
+            "Away": "Old Dominion",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Missouri State",
+            "Away": "Sam Houston",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Oklahoma State",
+            "Away": "West Virginia",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Queens",
+            "Away": "West Georgia",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "South Carolina",
+            "Away": "Kentucky",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Toledo",
+            "Away": "Northern Illinois",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Arkansas State",
+            "Away": "Southern Miss",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Missouri",
+            "Away": "Tennessee",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "Oklahoma",
+            "Away": "Auburn",
+            "Date": "2026-02-24"
+        },
+        {
+            "Home": "TCU",
+            "Away": "Arizona State",
+            "Date": "2026-02-24"
+        }
+    ]
+}
