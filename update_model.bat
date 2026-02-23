@@ -47,4 +47,4 @@ echo Give Claude the Master Link:
 echo https://raw.githubusercontent.com/Vision919/cbb-sharp-data/main/master_data.json
 echo ===========================================================
 echo.
-exit
+pause
