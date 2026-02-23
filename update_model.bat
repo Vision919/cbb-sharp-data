@@ -32,7 +32,7 @@ if %errorlevel% neq 0 (echo ❌ Slate update failed! && pause && exit /b)
 :: 4. Push to GitHub
 echo.
 echo [5/6] 🚀 Syncing CSVs to GitHub...
-git add active_slate.csv kenpom_live.csv vegas_odds.csv player_stats.csv sharp_cbb_live_engine.csv
+git add active_slate.csv kenpom_live.csv vegas_odds.csv player_stats.csv 
 git commit -m "Daily CSV Update: %date% %time%"
 git push
 
