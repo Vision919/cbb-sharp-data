@@ -3,40 +3,44 @@ import json
 import os
 
 def build_master_payload():
-    print("📦 Packing all data into master_data.json...")
+    print("📦 Packing data into Master Payload (Priority Order)...")
     
-    payload = {}
+    # We define the order here. JSON will follow this sequence.
+    # Smallest/Most critical data first to avoid truncation.
+    payload_order = [
+        ("slate", "active_slate.csv"),
+        ("vegas_odds", "vegas_odds.csv"),
+        ("kenpom", "efficiency.csv"),   # Ensure your team file is named efficiency.csv
+        ("players", "player_stats.csv")
+    ]
 
-    # Update these names if your actual files are named differently!
-    files = {
-        "efficiency": "efficiency.csv", 
-        "players": "player_stats.csv",
-        "odds": "vegas_odds.csv",
-        "slate": "active_slate.csv"
-    }
+    master_data = {}
+    found_any = False
 
-    found_at_least_one = False
-
-    for key, filename in files.items():
+    for key, filename in payload_order:
         if os.path.exists(filename):
             try:
-                # Load CSV and convert to a list of dictionaries
                 df = pd.read_csv(filename)
-                payload[key] = df.to_dict(orient='records')
-                print(f"✅ Added {filename} to payload.")
-                found_at_least_one = True
+                # Convert to list of dicts
+                master_data[key] = df.to_dict(orient='records')
+                print(f"✅ Added {key} ({len(df)} rows)")
+                found_any = True
             except Exception as e:
                 print(f"❌ Error reading {filename}: {e}")
         else:
-            print(f"⚠️ Warning: {filename} not found. Skipping.")
+            print(f"⚠️ Warning: {filename} not found. Skipping {key}.")
 
-    if found_at_least_one:
-        # Save as one big JSON file
+    if found_any:
+        # Save to JSON
         with open("master_data.json", "w") as f:
-            json.dump(payload, f, indent=4)
-        print("\n🚀 master_data.json is ready for Claude!")
+            # We don't use indent here to save space/tokens, 
+            # but if you want it pretty, add indent=4
+            json.dump(master_data, f) 
+        
+        print("\n🚀 master_data.json reordered and ready!")
+        print("Structure: [Slate] -> [Vegas] -> [KenPom] -> [Players]")
     else:
-        print("\n❌ No CSV files were found. Nothing to pack.")
+        print("\n❌ No data found to pack.")
 
 if __name__ == "__main__":
     build_master_payload()
