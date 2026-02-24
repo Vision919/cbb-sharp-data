@@ -26,26 +26,36 @@ def scrape_kenpom():
 
         # --- CLEAN KENPOM OUTPUT (overwrite kenpom_live.csv) ---
 
-        # Keep only the first occurrence of duplicate columns
-        df = df.loc[:, ~df.columns.duplicated()].copy()
+        # If KenPom table comes in with a MultiIndex header, flatten it.
+        # We keep the 2nd level names (e.g., Team, Conf, NetRtg, ORtg...)
+        if isinstance(df.columns, pd.MultiIndex):
+            df.columns = [str(c[1]).strip() for c in df.columns]
+        else:
+            df.columns = [str(c).strip() for c in df.columns]
 
-        # Ensure required columns exist (fail fast if KenPom layout changed)
+        # Remove repeated header rows (some tables repeat "Team" in the body)
+        df = df[df["Team"].astype(str) != "Team"].copy()
+
+        # Keep only the first occurrence of each column name
+        df = df.loc[:, ~pd.Index(df.columns).duplicated()].copy()
+
+        # REQUIRED columns (value columns)
         required = ["Team", "Conf", "NetRtg", "ORtg", "DRtg", "AdjT", "Luck"]
         missing = [c for c in required if c not in df.columns]
         if missing:
-            raise RuntimeError(f"KenPom table missing columns: {missing}. Columns found: {list(df.columns)}")
+            raise RuntimeError(f"KenPom table missing columns after flattening: {missing}. Columns found: {list(df.columns)}")
 
-        # Select only needed columns in a stable order
+        # Select only the columns we need
         df = df[required].copy()
 
-        # Convert numeric fields
+        # Convert numerics
         for col in ["NetRtg", "ORtg", "DRtg", "AdjT", "Luck"]:
             df[col] = pd.to_numeric(df[col], errors="coerce")
 
-        # Drop rows that failed numeric parsing (optional but helpful)
+        # Drop rows missing core numerics
         df = df.dropna(subset=["NetRtg", "ORtg", "DRtg", "AdjT"]).reset_index(drop=True)
 
-        # Overwrite existing file (only once)
+        # Save clean file (overwrite)
         df.to_csv("kenpom_live.csv", index=False)
 
         print(f"✅ Successfully logged {len(df)} teams.")

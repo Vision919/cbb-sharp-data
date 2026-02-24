@@ -7,7 +7,7 @@ from datetime import datetime
 API_KEY = 'd1c3c64a476503067b993331a62a7ae5'
 SPORT = 'basketball_ncaab'
 REGIONS = 'us'
-MARKETS = 'spreads'
+MARKETS = 'h2h,spreads,totals'
 ODDS_FORMAT = 'american'
 
 PREFERRED_BOOKS = ["DraftKings", "FanDuel", "BetOnline.ag"]
