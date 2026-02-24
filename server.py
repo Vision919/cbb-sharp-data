@@ -4,8 +4,9 @@ import os
 import io
 import time
 from dataclasses import dataclass
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
+import numpy as np
 import pandas as pd
 import requests
 from fastapi import FastAPI, Header, HTTPException, Query
@@ -16,7 +17,7 @@ from fastapi.middleware.cors import CORSMiddleware
 # -------------------------
 
 # Option A (recommended): local folder where your update_model writes CSVs
-DATA_DIR = os.getenv("C:\Users\Brody\Desktop\cbb-sharp-data", os.getcwd())
+DATA_DIR = os.getenv("SHARP_DATA_DIR", os.getcwd())
 
 # Option B: GitHub raw base (fallback)
 # Example: https://raw.githubusercontent.com/Vision919/cbb-sharp-data/main
@@ -24,7 +25,9 @@ GITHUB_RAW_BASE = os.getenv("SHARP_GITHUB_RAW_BASE", "").rstrip("/")
 
 # Optional simple auth for Actions (recommended)
 # Set SHARP_API_KEY on server and set the same key in GPT Action headers.
-SHARP_API_KEY = os.getenv("9181", "")
+# NOTE: you had os.getenv("9181","") which is almost certainly a mistake.
+# Leaving it as-is would silently disable auth. This is the correct env var name:
+SHARP_API_KEY = os.getenv("SHARP_API_KEY", "")
 
 # CSV filenames your pipeline produces
 FILES = {
@@ -61,7 +64,8 @@ def _local_path(key: str) -> str:
 def _read_csv_local(path: str) -> pd.DataFrame:
     if not os.path.exists(path):
         raise FileNotFoundError(path)
-    return pd.read_csv(path)
+    # Robust read: avoid a single malformed row crashing the service
+    return pd.read_csv(path, encoding="utf-8", on_bad_lines="skip")
 
 
 def _read_csv_github(filename: str) -> pd.DataFrame:
@@ -71,8 +75,7 @@ def _read_csv_github(filename: str) -> pd.DataFrame:
     url = f"{GITHUB_RAW_BASE}/{filename}?v={int(time.time())}"
     r = requests.get(url, timeout=20)
     r.raise_for_status()
-    # Let pandas sniff delimiters/quotes normally (your CSVs are standard)
-    return pd.read_csv(io.StringIO(r.text))
+    return pd.read_csv(io.StringIO(r.text), on_bad_lines="skip")
 
 
 def _get_df(key: str) -> pd.DataFrame:
@@ -96,10 +99,22 @@ def _get_df(key: str) -> pd.DataFrame:
 
 
 def _df_to_records(df: pd.DataFrame, limit: Optional[int] = None) -> List[Dict[str, Any]]:
+    """
+    Convert a DataFrame to JSON-safe records:
+      - NaN -> None
+      - +inf/-inf -> None
+    This prevents: ValueError: Out of range float values are not JSON compliant
+    """
     if limit is not None:
         df = df.head(limit)
-    # Replace NaN with None for clean JSON
-    return df.where(pd.notnull(df), None).to_dict(orient="records")
+
+    safe = df.copy()
+
+    # Replace infinities with NaN first, then NaN -> None
+    safe = safe.replace([np.inf, -np.inf], np.nan)
+    safe = safe.where(pd.notnull(safe), None)
+
+    return safe.to_dict(orient="records")
 
 
 app = FastAPI(title="Sharp-CBB Data API", version="2.0")
@@ -169,8 +184,6 @@ def sharp_game(
 
     vegas = _get_df("vegas").copy()
 
-    # Expecting your schema: Home, Away, Vegas_Spread, Bookmaker, Commence_Time
-    # (case-insensitive handling)
     cols = {c.lower(): c for c in vegas.columns}
     if "home" not in cols or "away" not in cols:
         raise HTTPException(status_code=500, detail="Vegas CSV must contain Home and Away columns.")
@@ -179,7 +192,10 @@ def sharp_game(
     away_col = cols["away"]
 
     team_l = team.strip().lower()
-    mask = vegas[home_col].astype(str).str.lower().str.contains(team_l) | vegas[away_col].astype(str).str.lower().str.contains(team_l)
+    mask = (
+        vegas[home_col].astype(str).str.lower().str.contains(team_l)
+        | vegas[away_col].astype(str).str.lower().str.contains(team_l)
+    )
     matches = vegas.loc[mask].head(max_results)
 
     return {
@@ -190,6 +206,54 @@ def sharp_game(
     }
 
 
+@app.get("/sharp/table/{table_name}/preview")
+def table_preview(
+    table_name: str,
+    n: int = Query(default=25, ge=1, le=200),
+    x_api_key: Optional[str] = Header(default=None),
+):
+    _require_api_key(x_api_key)
+    if table_name not in FILES:
+        raise HTTPException(status_code=404, detail="Unknown table")
+    df = _get_df(table_name)
+    return {
+        "ok": True,
+        "table": table_name,
+        "rows": int(df.shape[0]),
+        "cols": df.columns.tolist(),
+        "data": _df_to_records(df, limit=n),
+    }
+
+
+@app.get("/sharp/team")
+def team_lookup(
+    team: str = Query(..., description="Team name fragment"),
+    x_api_key: Optional[str] = Header(default=None),
+    max_results: int = Query(default=50, ge=1, le=200),
+):
+    _require_api_key(x_api_key)
+    out: Dict[str, Any] = {"ok": True, "query": team, "kenpom": [], "players": []}
+    team_l = team.strip().lower()
+
+    # KenPom: try common team column names
+    kp = _get_df("kenpom").copy()
+    kp_cols = {c.lower(): c for c in kp.columns}
+    kp_team_col = kp_cols.get("team") or kp_cols.get("school") or kp_cols.get("team_name")
+    if kp_team_col:
+        m = kp[kp[kp_team_col].astype(str).str.lower().str.contains(team_l)].head(max_results)
+        out["kenpom"] = _df_to_records(m)
+
+    # Players: column "Team" expected
+    pl = _get_df("players").copy()
+    pl_cols = {c.lower(): c for c in pl.columns}
+    pl_team_col = pl_cols.get("team") or pl_cols.get("school")
+    if pl_team_col:
+        m = pl[pl[pl_team_col].astype(str).str.lower().str.contains(team_l)].head(max_results)
+        out["players"] = _df_to_records(m)
+
+    return out
+
+
 # Run:
-#   pip install fastapi uvicorn pandas requests
+#   pip install fastapi uvicorn pandas requests numpy
 #   uvicorn server:app --host 0.0.0.0 --port 8000
