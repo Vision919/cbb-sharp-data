@@ -1,78 +1,95 @@
 @echo off
-:: Forces the script to run in your project folder regardless of how it's opened
+setlocal enabledelayedexpansion
+
 cd /d "C:\Users\Brody\Desktop\cbb-sharp-data"
-title CBB Data Master Sync
+
+title CBB Data Master Sync (NO SLATE)
 color 0A
 
 echo ===========================================================
-echo             COLLEGE BASKETBALL DATA MASTER SYNC
+echo        COLLEGE BASKETBALL DATA MASTER SYNC (AUTO)
+echo                 (VEGAS = SLATE)
 echo ===========================================================
 echo.
 
-:: 1. Update Team Efficiency and Player Stats
-echo [1/6] 📈 Scraping KenPom and Player Stats...
-python scraper.py
-if %errorlevel% neq 0 (echo ❌ Scraper failed! && pause && exit /b)
+:: ------------------------------------------------------------
+:: [0/3] Git sync FIRST (so pull/rebase never fails after writes)
+:: ------------------------------------------------------------
+echo [0/3] 🔄 Syncing with GitHub (pull first)...
 
-:: 2. Update Vegas Odds
-echo [2/6] 🎰 Fetching Live Vegas Odds...
-python vegas_odds.py
-if %errorlevel% neq 0 (echo ❌ Vegas Odds failed! && pause && exit /b)
+git diff --quiet
+set DIRTY=0
+if errorlevel 1 set DIRTY=1
 
-:: 3. Update the Slate (Asks you which day)
-echo.
-echo [3/6] 📅 Update Schedule Slate:
-echo [0] Today
-echo [1] Tomorrow
-echo [2] Day After
-set /p days="Choose day (0-2): "
-python get_slate.py %days%
-if %errorlevel% neq 0 (echo ❌ Slate update failed! && pause && exit /b)
+git diff --cached --quiet
+if errorlevel 1 set DIRTY=1
 
-:: 4. Push to GitHub
-echo.
-echo [5/6] 🚀 Syncing CSVs to GitHub...
+if "!DIRTY!"=="1" (
+  echo 🧷 Working tree dirty — stashing changes...
+  git stash push -u -m "auto-stash before daily sync"
+)
 
-:: Make sure we're up to date first (prevents non-fast-forward push errors)
 git pull --rebase origin main
 if errorlevel 1 (
-  echo ❌ git pull --rebase failed. Resolve git issues then rerun.
+  echo ❌ git pull --rebase failed. Resolve manually.
+  pause
   exit /b 1
 )
 
-:: Add only files that exist (prevents pathspec failures)
-if exist active_slate.csv git add active_slate.csv
+if "!DIRTY!"=="1" (
+  echo 🧷 Restoring stashed changes...
+  git stash pop
+)
+
+echo ✅ Git sync complete.
+echo.
+
+:: -------------------------
+:: [1/3] KenPom (and Players if your scraper writes them)
+:: -------------------------
+echo [1/3] 📈 Updating KenPom...
+python scraper.py
+if %errorlevel% neq 0 (
+  echo ❌ KenPom scrape failed.
+  pause
+  exit /b 1
+)
+
+:: -------------------------
+:: [2/3] Vegas
+:: -------------------------
+echo [2/3] 🎰 Fetching Live Vegas Odds...
+python vegas_odds.py
+if %errorlevel% neq 0 (
+  echo ❌ Vegas Odds failed.
+  pause
+  exit /b 1
+)
+
+:: -------------------------
+:: [3/3] Commit + Push
+:: -------------------------
+echo.
+echo [3/3] 🚀 Committing + pushing changes...
+
 if exist kenpom_live.csv git add kenpom_live.csv
 if exist vegas_odds.csv git add vegas_odds.csv
 if exist player_stats.csv git add player_stats.csv
-if exist .gitattributes git add .gitattributes
 
-:: If nothing changed, don't try to commit/push
 git diff --cached --quiet
 if %errorlevel%==0 (
-  echo ✅ No CSV changes to commit. GitHub already has latest.
-  goto :eof
+  echo ✅ No changes detected. Nothing to push.
+  goto :done
 )
 
-:: Commit with a clean timestamp (no colons)
 for /f "tokens=1-3 delims=/ " %%a in ("%date%") do set d=%%c-%%a-%%b
 for /f "tokens=1-2 delims=:." %%a in ("%time%") do set t=%%a%%b
 
-git commit -m "Daily CSV Update: %d% %t%"
-if errorlevel 1 (
-  echo ❌ git commit failed.
-  exit /b 1
-)
-
+git commit -m "Daily Data Update: %d% %t%"
 git push origin main
-if errorlevel 1 (
-  echo ❌ git push failed.
-  exit /b 1
-)
 
-echo 🚀 CSVs pushed successfully.
-
+:done
 echo.
-echo ✅ ALL CSVs ARE LIVE!
-echo You can now tell the GPT to "Run the Audit."
+echo ✅ DATA SYNC COMPLETE
+echo Vegas acts as the slate (filter by Commence_Time).
 pause
