@@ -1,33 +1,6 @@
 Home,Away,Vegas_Spread,Spread_Price_Home,Spread_Price_Away,ML_Home,ML_Away,Total,Over_Price,Under_Price,Bookmaker,Commence_Time,Open_Spread,Open_Total,Open_ML_Home,Open_ML_Away,Open_Pulled_At
-Saint Louis Billikens,GW Revolutionaries,-6.5,-115,-105,-238.0,195.0,161.5,-108,-112,DraftKings,2026-03-13T15:30:00Z,-6.5,161.5,-238.0,195.0,2026-03-13 06:53:55
-Michigan Wolverines,Ohio State Buckeyes,-12.5,-115,-105,-1000.0,650.0,154.5,-115,-105,DraftKings,2026-03-13T16:00:00Z,-12.5,154.5,-1000.0,650.0,2026-03-13 06:53:55
-UAB Blazers,Charlotte 49ers,-5.5,-110,-110,-198.0,164.0,145.5,-108,-112,DraftKings,2026-03-13T16:30:00Z,-5.5,145.5,-198.0,164.0,2026-03-13 06:53:55
-Louisiana Tech Bulldogs,Missouri St Bears,-1.5,-102,-118,-120.0,100.0,134.5,-112,-108,DraftKings,2026-03-13T16:30:00Z,-1.5,134.5,-120.0,100.0,2026-03-13 06:53:55
-Florida Gators,Kentucky Wildcats,-10.5,-110,-110,-600.0,440.0,159.5,-110,-110,DraftKings,2026-03-13T17:00:00Z,-10.5,159.5,-600.0,440.0,2026-03-13 06:53:55
-Alabama A&M Bulldogs,Prairie View Panthers,1.5,-125,105,-105.0,-115.0,143.5,-108,-112,DraftKings,2026-03-13T18:00:00Z,1.5,143.5,-105.0,-115.0,2026-03-13 06:53:55
-Illinois Fighting Illini,Wisconsin Badgers,-7.5,-115,-105,-310.0,250.0,156.5,-110,-110,DraftKings,2026-03-13T18:30:00Z,-7.5,156.5,-310.0,250.0,2026-03-13 06:53:55
-Sam Houston St Bearkats,Kennesaw St Owls,-3.5,-112,-108,-175.0,145.0,161.5,-110,-110,DraftKings,2026-03-13T19:00:19Z,-3.5,161.5,-175.0,145.0,2026-03-13 06:53:55
-Vanderbilt Commodores,Tennessee Volunteers,-1.5,-110,-110,-120.0,100.0,147.5,-110,-110,DraftKings,2026-03-13T19:30:00Z,-1.5,147.5,-120.0,100.0,2026-03-13 06:53:55
-Tulsa Golden Hurricane,North Texas Mean Green,-7.5,-112,-108,-298.0,240.0,142.5,-110,-110,DraftKings,2026-03-13T19:30:50Z,-7.5,142.5,-298.0,240.0,2026-03-13 06:53:55
-VCU Rams,Duquesne Dukes,-8.5,-108,-112,-375.0,295.0,153.5,-105,-115,DraftKings,2026-03-13T21:00:00Z,-8.5,153.5,-375.0,295.0,2026-03-13 06:53:55
-Toledo Rockets,Massachusetts Minutemen,-3.5,-115,-105,-162.0,136.0,158.5,-110,-110,DraftKings,2026-03-13T21:00:00Z,-3.5,158.5,-162.0,136.0,2026-03-13 06:53:55
-Howard Bison,South Carolina St Bulldogs,-15.5,-108,-112,-1600.0,900.0,144.5,-112,-108,DraftKings,2026-03-13T22:00:00Z,-15.5,144.5,-1600.0,900.0,2026-03-13 06:53:55
-Nebraska Cornhuskers,Purdue Boilermakers,3.5,-112,-108,150.0,-180.0,142.5,-110,-110,DraftKings,2026-03-13T22:30:00Z,3.5,142.5,150.0,-180.0,2026-03-13 06:53:55
-Virginia Cavaliers,Miami Hurricanes,-4.5,-105,-115,-185.0,154.0,143.5,-112,-108,DraftKings,2026-03-13T23:00:00Z,-4.5,143.5,-185.0,154.0,2026-03-13 06:53:55
-Arizona Wildcats,Iowa State Cyclones,-4.5,-108,-112,-175.0,145.0,143.5,-110,-110,DraftKings,2026-03-13T23:00:00Z,-4.5,143.5,-175.0,145.0,2026-03-13 06:53:55
-Alabama Crimson Tide,Ole Miss Rebels,-10.5,-108,-112,-440.0,340.0,163.5,-110,-110,DraftKings,2026-03-13T23:00:00Z,-10.5,163.5,-440.0,340.0,2026-03-13 06:53:55
-Akron Zips,Kent State Golden Flashes,-6.5,-110,-110,-265.0,215.0,163.5,-110,-110,DraftKings,2026-03-13T23:30:00Z,-6.5,163.5,-265.0,215.0,2026-03-13 06:53:55
-Saint Joseph's Hawks,Davidson Wildcats,-1.5,-115,-105,-125.0,105.0,131.5,-105,-115,DraftKings,2026-03-13T23:30:00Z,-1.5,131.5,-125.0,105.0,2026-03-13 06:53:55
-North Carolina Central Eagles,Delaware St Hornets,-4.5,-105,-115,-180.0,150.0,133.5,-105,-115,DraftKings,2026-03-14T00:00:00Z,-4.5,133.5,-180.0,150.0,2026-03-13 06:53:55
-UConn Huskies,Georgetown Hoyas,-13.5,-110,-110,-1100.0,700.0,139.5,-108,-112,DraftKings,2026-03-14T00:00:18Z,-13.5,139.5,-1100.0,700.0,2026-03-13 06:53:55
-Florida A&M Rattlers,Southern Jaguars,2.5,-108,-112,124.0,-148.0,144.5,-112,-108,DraftKings,2026-03-14T00:30:00Z,2.5,144.5,124.0,-148.0,2026-03-13 06:53:55
-UC Irvine Anteaters,CSU Northridge Matadors,-4.5,-108,-112,-205.0,170.0,149.5,-110,-110,DraftKings,2026-03-14T01:00:00Z,-4.5,149.5,-205.0,170.0,2026-03-13 06:53:55
-Michigan St Spartans,UCLA Bruins,-5.5,-115,-105,-238.0,195.0,142.5,-105,-115,DraftKings,2026-03-14T01:00:00Z,-5.5,142.5,-238.0,195.0,2026-03-13 06:53:55
-Utah Valley Wolverines,UT-Arlington Mavericks,-8.5,-110,-110,-345.0,275.0,134.5,-115,-105,DraftKings,2026-03-14T01:00:00Z,-8.5,134.5,-345.0,275.0,2026-03-13 06:53:55
-Utah State Aggies,Nevada Wolf Pack,-6.5,-110,-110,-265.0,215.0,144.5,-115,-105,DraftKings,2026-03-14T01:30:00Z,-6.5,144.5,-265.0,215.0,2026-03-13 06:53:55
-Arkansas Razorbacks,Oklahoma Sooners,-6.5,-108,-112,-245.0,200.0,168.5,-115,-105,DraftKings,2026-03-14T01:30:18Z,-6.5,168.5,-245.0,200.0,2026-03-13 06:53:55
-Houston Cougars,Kansas Jayhawks,-5.5,-105,-115,-205.0,170.0,134.5,-115,-105,DraftKings,2026-03-14T01:30:31Z,-5.5,134.5,-205.0,170.0,2026-03-13 06:53:55
-Duke Blue Devils,Clemson Tigers,-11.5,-108,-112,-750.0,525.0,134.5,-115,-105,DraftKings,2026-03-14T01:30:32Z,-11.5,134.5,-750.0,525.0,2026-03-13 06:53:55
-Hawai'i Rainbow Warriors,CSU Fullerton Titans,-3.5,-108,-112,-162.0,136.0,157.5,-115,-105,DraftKings,2026-03-14T03:30:00Z,-3.5,157.5,-162.0,136.0,2026-03-13 06:53:55
-Cal Baptist Lancers,Utah Tech Trailblazers,-6.5,-105,-115,-245.0,200.0,137.5,-110,-110,DraftKings,2026-03-14T03:30:00Z,-6.5,137.5,-245.0,200.0,2026-03-13 06:53:55
-San Diego St Aztecs,New Mexico Lobos,-1.5,-115,-105,-120.0,100.0,149.5,-115,-105,DraftKings,2026-03-14T04:00:00Z,-1.5,149.5,-120.0,100.0,2026-03-13 06:53:55
+Yale Bulldogs,Pennsylvania Quakers,-5.5,-120,-110,-395.0,280.0,154.5,-110,-120,DraftKings,2026-03-15T16:00:00Z,-5.5,154.5,-395.0,280.0,2026-03-15 13:11:11
+Arkansas Razorbacks,Vanderbilt Commodores,2.5,-105,-125,114.0,-145.0,163.5,-115,-115,DraftKings,2026-03-15T17:07:42Z,2.5,163.5,114.0,-145.0,2026-03-15 13:11:11
+VCU Rams,Dayton Flyers,-6.5,-110,-120,-260.0,195.0,138.5,-120,-110,DraftKings,2026-03-15T17:10:37Z,-6.5,138.5,-260.0,195.0,2026-03-15 13:11:11
+South Florida Bulls,Wichita St Shockers,-6.5,-105,-115,-258.0,210.0,150.5,-112,-108,DraftKings,2026-03-15T19:15:00Z,-6.5,150.5,-258.0,210.0,2026-03-15 13:11:11
+Michigan Wolverines,Purdue Boilermakers,-5.5,-108,-112,-250.0,205.0,149.5,-108,-112,DraftKings,2026-03-15T19:30:00Z,-5.5,149.5,-250.0,205.0,2026-03-15 13:11:11
